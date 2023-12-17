@@ -10,19 +10,13 @@ last_updated_time: 15th Nov 2023
 github_username: fmpaci
 linkedin_username: fpaci
 about_title: About Me
-about_profile_image: images/me.jpeg
+about_profile_image: images/me.jpg
 about_content: |
   **CV: [PDF](https://fmpaci.github.io/files/files/CV-Federico.Paci.pdf)**
 
   I'm Federico Paci and I'm living in Mendoza, Argentina.
   My interests are around the world of Data such as **Data Engineering**, **Data Modeling**, **Data Orchestation**, and **Explainable Machine Learning**.
-more_content: |
-    More content here
 
-
-
-    - **Watching movies**
-    - **Travelling and nature**
 content:
   - title: Experience
     layout: list
