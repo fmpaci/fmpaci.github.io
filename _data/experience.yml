@@ -1,4 +1,9 @@
 - company: Frubana 
+  job_title: |
+    <img src="./images/frubana-logo.svg" height="38"><br/>
+    Senior Data Engineer
+  link: frubana.com
+  dates: Jan 2020 - present
   description: |
       - Develop ETL SQL process, data modeling, in redshift.
       - Create data pipelines (ETL/ELT) with Airflow, AWS Glue, and Python
@@ -7,10 +12,7 @@
       - Administer users connections and permissions on Metabase, Superset, Redash, and redshift.
       - Monitor and control datawarehouse and datalake performance, keep track of redshift queue, help clients with query tuning.
       - Keep track of customers' tickets and issues.
-  job_title: |
-    <img src="./images/frubana-logo.svg" height="38"><br/>
-    Senior Data Engineer
-  dates: Jan 2020 - present
+  
 
 - company: Eldar
   job_title: |
