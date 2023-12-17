@@ -4,15 +4,17 @@ name: Federico Paci
 email: fmpaci88@gmail.com
 darkmode: false
 trigger_darkmode:
-  start_light: '05'
-  start_dark: '16'
+  start_light: '08'
+  start_dark: '19'
 last_updated_time: 15th Nov 2023
+
 github_username: fmpaci
 linkedin_username: fpaci
+
 about_title: About Me
 about_profile_image: images/me.jpg
 about_content: |
-  **CV: [PDF](https://fmpaci.github.io/files/files/CV-Federico.Paci.pdf)**
+  **CV: [PDF](https://fmpaci.github.io/files/CV-Federico.Paci.pdf)**
 
   I'm Federico Paci and I'm living in Mendoza, Argentina.
   My interests are around the world of Data such as **Data Engineering**, **Data Modeling**, **Data Orchestation**, and **Explainable Machine Learning**.
