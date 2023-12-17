@@ -9,11 +9,10 @@
       - Generate insights and dashboards with Metabase, Superset, Redash and Looker
       - Administer users connections and permissions on Metabase, Superset, Redash, and redshift.
       - Monitor and control datawarehouse and datalake performance, keep track of redshift queue, help clients with query tuning.
-      - Keep track of customers' tickets and issues.
+      - Keep track of customers tickets and issues.
   
 
-- company: <br/><a href="www.eldars.com.ar" alt="Eldar"><img src="./images/logo-eldar.png" height="80"></a><br/><br/>
-
+- company: <a href="www.eldars.com.ar" alt="Eldar"><img src="./images/logo-eldar.png" height="80"></a><br/>
   job_title: |
     Senior Data Engineer 
   dates: Dec 2022 - May 2023
