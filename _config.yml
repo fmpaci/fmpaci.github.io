@@ -1,131 +1,205 @@
-# Site
-repository: fmpaci/fmpaci.github.io
-favicon: images/favicon.ico
+repository: alirezadizaji/alirezadizaji.github.io
+version: 1
+name: Alireza Dizaji
+email: alireza.dizaji@mila.quebec
+darkmode: false
+trigger_darkmode:
+  start_light: '05'
+  start_dark: '16'
+last_updated_time: 5th Oct 2023
+github_username: alirezadizaji
+linkedin_username: gil-estel-dizaji-43a634194
+googlescholar_username: 5BnxuWAAAAAJ
+about_title: About Me
+about_profile_image: images/me.jpeg
+about_content: |
+  **CV: [PDF](https://fmpaci.github.io/files/CV.pdf)**
 
-# Content configuration version
-version: 2
+  I'm Federico Paci and I'm living in Mendoza, Argentina.
+  Before here, I graduated as a Bachelor of Science student at the Sharif University of Technology, Computer Engineering field; I have 3+ years of research experience in machine learning; Between May 2022 and 2023, I was an intern at the Technical University of Munich working on 
+  two projects: 1) Gait-disorder recognition for video-series skeleton graphs using semi-supervised methods and 2) benchmarking explainability methods at Graph Neural Networks, under the supervision of 
+  Prof. Daniel Rueckert and Nassir Navab. 
+  Between April 2021 - December 2022, I was an R&D scientist at CommaMed, where my main task was to develop AI methods for breast cancer detection. 
+  My interests are around the world of Data such as **Data Engineering**, **Data Modeling**, **Data Orchestation**, and **Explainable Machine Learning**.
+more_content: |
+  Alongside my interests in science and technology, some of my other hobbies are:
+    - **Reading books**: I am a big fan of Fantasy books, and mostly
+    spend my leisure time reading them. Books are the first things that can help me put my mind away from this world and live through the other ones. Besides, the most joyful and cheapest way of journeying for me is reading books. Here I listed a brief description of my understanding of several of them:
+      - <i> J.R.R Tolkien's Valinor, Numenor, and Middle-earth history </i>: I traveled through sir Talkien's universe (and probably ours) by reading his masterpieces, including the <i> Silmarillion </i>, <i> Unfinished Tales </i>, <i> Hobbit </i>, and <i> Lord of the Rings </i> series.
+      He represents the life of the Evil and Eru Illuvatar's descendants for three ages with the main subject of standing against the Evil, though we should know ourselves better for this purpose:
+        - Envying and the Evil: Basically, There is no Evil, but envying is the thing that creates its root as the Morgoth envied the fair land of Valinor. Directing all your behaviors, including cupidity, towards envying 
+        can grow the evil inside yourself. But Evil always loses because instinctively, following evil wills closes one's mind towards the things that potentially could become the first motifs towards 
+        its destruction. That's why evil will always end at its starting point. I believe permanently removing jealousy inside ourselves is difficult, but we are the ones choosing how to direct our actions afterward. Besides, we all possess the same good and bad features since we were born, though our choices determine us to become Evil or.
+        - Fate: During the story, all are taking a path in their lives, but incredibly these paths are somehow related to each other as they all lead to the same target. One of my main concerns was why we all live in this world. why there should be 8 billion people on the earth? What of it? During the story, sir Tolkien demonstrates a single target: Perishing Evil. This is something that always exists till the end, and 
+        the path that one takes determines his side. So the point is these paths are like small intervals that concatenate into a bigger path, one leading to a finite evil end, and the other one to reach infinity. After all, Life's span is short-term, so that's why many people exist to reach the goal of the one path and our final fate.
+        - Hope and despair: Basically, there is no despair in life. Despair is created in the human mind to justify laziness and loss. Life always shows a hole in your solution, though you should find and take your step. Overthinking assists you in despair, and that's why we should take more steps in our lives rather than think about the steps.
 
-# Personal info
-name: Federico Paci
-title: Data Engineer
-email: fmpaci88@gmail.com
-website: www.github.com/fmpaci/fmpaci.github.io
+        At last, I'd like to share the quotes that I encountered during my reading:
+          - Despair is for those who see the end beyond all doubt.
+          - Do not trouble your hearts overmuch with the thought of the road. Maybe the paths 
+            that you each shall tread are already laid before your feet, though you do not see them.
+          - Evil will shall evil mar: Evil intentions often shall destroy evil itself.
+          - Help comes from the hands of the weak when Wise flattered.
+          - Grief is a hone to a hard mind.
+          - A man that flies from his fear may find that he has only taken a shortcut to meet it.
+      - <i> J.K. Rowling's Harry Potter series </i>: I read all seven books of miss Rowling, and I believe that besides strong imagination and a very friendly world, miss Rowling tried to depict that the only reason for anyone who seeks immortality is to have huge power over all beings. 
+      And this is the darkest goal because it is possible only by leaving your pure and single soul, and this could be done only by one action: Split your soul by murdering. By doing so (Like murdering Harry's parents), the seeker automatically creates his enemies 
+      and their motivations. You can never seek immortality without making your enemies, that's the point. And you can never perish your enemies because an immense power, e.g. the pure LOVE between mother and son, would be created inside the victims (e.g. Harry) that is impossible to resist against it.
+      What's interesting is that Harry maintains this power, but in my opinion, he was very idiot most of the time :). Therefore (same as in Lord of The Rings) there must be people with high wisdom and knowledge (e.g. Dumbledore) to help you employ this motivation and energy very delicately and efficiently. If there are no such people or leaders, 
+      then this motivation could also perish very easily because of your silliness.  
+      - <i> Andrzej Sapkowski's Witcher series </i>: The Witcher series depicts the destinies of many characters intertwined with the destiny of a child, named Ciri. The writer tries to depict the inevitable links that exist among the destiny of different people. It also demonstrates life and death as a perpetual but not an ending concept where an event ends then another one begins, like the Ouroboros snake that eats its tail. I like the main ideas of the series, though I criticize some cases mentioned in the following.
 
-# Dark Mode (true/false/never)
-darkmode: true
+        The writer mentions these concepts explicitly within the text which I don't like because I believe a strong writer mentions multiple events and it lets you think about them to find out what was in its mind (that's what makes LOTR or HP different from the others). In addition, the writer mentions his ideas from the beginning till the end monotonically, and it does not surprise the reader as it knows from the starting point what is in the reader's mind (except for events like the death of Geralt and Yennefer and their companions or some very minor events e.g. erotic scenes). In addition, the writer didn't provide enough explanation of environments within the text for better imagination (you had to make something up by yourself), and instead it can be seen how detailed he demonstrated unnecessary things like the facial gestures of people when somebody is talking (like when Ciri is talking within the Lodge society of sorceresses at Monetecalvo) which it doesn't really matter.  Moreover, the writer exaggerates a child called Ciri, as the Lady of the World, which brings high expectations for the reader to see some special magic actions directly from this child (e.g. surviving the world). The ending was great as it links the perpetual love of Geralt and Yennefer in another world after their death, with the Ouroboros snake. 
 
-# Social links
-#twitter_username: fmpaci
-github_username:  fmpaci
-# stackoverflow_username: "00000001"
-# dribbble_username: fmpaci
-# facebook_username: fmpaci
-# flickr_username: fmpaci
-#instagram_username: fmpaci
-linkedin_username: fpaci
-# xing_username: fmpaci
-# pinterest_username: fmpaci
-#youtube_username: fmpaci
-# googleplus_username: +fmpaci
-# orcid_username: 0000-0000-0000-0000
+        Overall, I didn't like this series as much as the previous ones :). Quotes that I'd like to share with you:
+          - You can't stop a soldier from being frightened but you can give him motivation to help him overcome that fear.
+          - Fear appears only when you are uncertain.
+          - Sword of destiny has two blades. Everybody somehow are destined for each other.
+          - If the concept of will and submission, of commands and obedience, and of male ruler and servant woman will perish and diappear, then unity will be achieved. Then death would lose its meaning.
+          - A coward (like neutral) dies a hundred times. A brave man dies but once. But Dame Fortune the brave and holds cowards in contempt.
+          - Doing something for someone. Or perhaps for ourselves? For in fact we are always paying ourselves back and not someone else. Each time we are indebted we pay off the debt to ourselves. In each of us lies a creditor and a debtor at once and the art is for the reckoning to tally inside us.
+          - Despair and grief are known as great excuses.
+          - It is better to go forward without a goal, than to have a goal and stay in one place.
+          - When a goal beckons you, a way must be found.
+      - <i> Matt Haig's Midnight Library </i>: "It’s easy to mourn the lives we aren’t living. It takes no effort to miss the friends we didn’t make. But it is not the lives we regret not living that are the real problem. It is the regret itself. It’s the regret that makes us shrivel and wither and feel like our own and other people’s worst enemies. There are many other versions of our lives happening, including this one. We can’t visit every place or meet every person or do every job, yet most of what we’d feel in any life is still available. We don’t have to play every game to know what winning feels like. Love and laughter and fear and pain are universal currencies. We just have to close our eyes and savour the taste of the drink in front of us and listen to the song as it plays. We don’t have to do everything to be everything, because we are already infinite. We only need to be one person and feel one existence.”
 
-# Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+        These are the first words from someone who called herself “Nobody, who has been everybody”. She returns to life after committing suicide. But what was she doing between life and death? She went to an in-between phase, nor death nor alive, in a place called "The Midnight Library", whose time is always fixed at 0:00:00. There are lots of books each one representing a version of her "possible life", alongside a book: her regrets. She has experienced thousands of lives to find the perfect life for herself. She lived many things she wanted to be: a swimmer Olympic champion, a glaciologist, a well-known singer, etc. She chose based on undoing her regrets in her root life. In each of them, she tries to get something like achievements, fame, money, marriage, and being with a friend, etc which she thought each one could lead her to a better life. But after living them she realizes there was no life for her. Anyway, she pursues reducing her regrets by undoing them and being creative towards them. The more steps she takes, the more perspective she gets from life. 
+        
+        She tried to reach the imaginations she had created to reach the great life (before dying), but after each try, she always sees both sides of it, that there is no life with sheer happiness, and sadness is intrinsically linked to the fabric of happiness. After each new life with a new perspective, her imagination changed about the best life. Maybe that could be a point. There is no best life because after each experience you find more of your vastness and you want to try your new borders. You regularly build your new imagination and forget the old ones (So you are always limited to your imagination).
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+        She reached a point where there was no regret in life. She cleaned her mind of all her regrets, about what she thought and how it ends up. After this point, she realizes the power of LOVE. finds a perfect life by loving her four-year-old kid, her husband, her home, and the town in which her home is. She thought that the fundamental problem of her root life was the lack of loving and being loved, which puts her into an emptiness. These motifs seems very simple, but in root life she was just very simply underestimating the big importance of the small things. But I forgot to say the new life works like this: You only have the memory of your root life, and when you live a new life, you only know the consequences of its action, you have no memory of it all. So in the last experience, there were awkward moments like she didn’t know the name of her child. This life was a lie to the version of her root life, she didn’t build it. 
+        
+        She truly wants to be in that perfect life, but the midnight library does not work that way. And the library and librarian all were going to become ash not because she is going to die but because she truly wants to live. The library and librarian were just a simplified version of reality both of whose meanings exist because of her. The only book that was not burning at the last moment of the library was her root life. She deeply wants to be alive. So at 00:01:20, she becomes alive by vomiting from overdose.  
+        
+        “It is quite a revelation to discover that the place you wanted to escape to is the exact same place you escaped from. That the prison wasn’t the place but the perspective.”
+        
+        Her brother came to her visit, which was one of the reasons for her suicide because she thought her brother became an alcoholic and does not give a shit about her. The next day, her friend responded to her text, which was another reason of suiciding because her friend saw her text message and didn’t respond. “It was interesting, she mused to herself, how life simply gave you a whole new perspective by waiting around long enough for you to see it.”
+        
+        These are a very brief overview of the Midnight Library by Matt Haig. But at last, I believe he is right, the best way to learn is to live, you don’t have to understand life. You just have to live it. And You will never live if you are only looking for the meaning of it”.
 
-# About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Federico and I'm a senior Data Engineer.
 
-  I am most skilled in: <mark>SQL </mark> and <mark>Eating Pizza</mark>
+        P.S. 1
+        
+        None of the sentences in this text belong to me. It belongs to the author or the characters.
+        
+        P.S. 2
+        
+        In this overview, I didn’t bring the explanation of how new sides of life open to her, like the concept of loneliness, parallel universes and the link between quantum physics and our lives, the consequence of being overloaded by non-friend friends in social media, difference between every lives and every possible lives (being out of your control), etc. Each one of these is covered in a different chapter which is worth reading in the book itself :).
 
+
+
+
+    - **Watching movies**
+    - **Travelling and nature**
 content:
-#  - title: Workexperience # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: top-middle
-#        title: Frubana
-#        link: https://www.frubana.com/
-#        # link_text: Project Website
-#        additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-#            url: github.com/sproogen/modern-resume-theme
-#          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#          #   icon: fab fa-github
-#          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#        quote: >
-#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-#        description: | # this will include new lines to allow paragraphs
-#          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-#
-  - title: Work Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
       - layout: left
-        title: Frubana
-        link: www.frubana.com
-        link_text: frubana.com
-        sub_title: Senior Data Engineer
-        caption: January 2020 - Present
-#        quote: >
-#          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-#        description: | # this will include new lines to allow paragraphs
-#            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-#
-#  - title: Education # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: left
-#        title: Harvard University
-#        caption: 2010 - 2013
-#        sub_title: BSc Computer Science
-#        quote: >
-#          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-#        description: | # this will include new lines to allow paragraphs
-#          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-#
-#          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-#
-#  - title: A Little More About Me
-#    layout: text
-#    content: | # this will include new lines to allow paragraphs
-#      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-#      - Rock climbing
-#      - Gaming
-#      - Knitting
-#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-#
-#      Look at this cool image  
-#
-## Footer
-#footer_show_references: true
-## references_title: References on request (Override references text)
-#
+        title: Quebec Artificial Intelligence Institute (MILA)
+        sub_title: Graduate Research Assistant
+        caption: Sep. 2023 - present
+        description: ''
+      - layout: left
+        title: AI-Med
+        sub_title: R&D scientist
+        caption: April 2021 - present
+        link: https://aimed-sharif.ir/
+        description: |
+          AI-Med is a multidisciplinary research consortium **utilizing artificial intelligence
+          technologies to improve the quality and accuracy of digital health services**.
+          since April 2021, I joined as **research and development scientist** here where
+          we have designed a wide-range of deep-learning experiments (via Pytorch) to provide
+          better **detection** and **localization** of abnormalities for **mammography screening**.
+          our methods have reached and even gone beyond the state-of-the-art algorithms on **public dataset (DDSM)**.
+          in order to maintain our results same for the **in-private dataset**, we are currently
+          developing **weakly-supervised methods** to more precisely label and generate ground-truth ROIs for them.
+          Moreover, we have designed several side tools to get real-time feedbacks from experienced radiologists for labeling. 
+      - layout: left
+        title: Sharif University of Technology
+        sub_title: Research Assistant
+        caption: August 2020 - March 2021
+        description: |
+          I joined [**DML lab**](http://dml.ce.sharif.edu/dmlsite/) as a **Research assistant** where I was working
+          on the impact of **contrastive learning** approaches on **deep reinforcement-learning** algorithms.
+          to be more specific, I implemented [**CURL**](https://arxiv.org/pdf/2004.04136.pdf?ref=https://githubhelp.com) 
+          and [**SIMCLR**](https://arxiv.org/pdf/2002.05709.pdf) (via Pytorch) algorithms to improve movement of an agent
+          within Maze environment.
+      - layout: left
+        title: Sharif University of Technology
+        sub_title: Teaching Assistant
+        caption: Februrary 2019 - July 2021
+        description: |
+          since my second semester, I have collaborated as a **teaching assistant** with several
+          faculty members of **computer engineering department**. all courses that I have contributed are listed below:
 
-# Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+          **Spring 2021**
+          - Machine learning (M.Sc. course), Dr. Rohban
+          - Modern information retrival, Dr. Soleymani
 
-remote_theme: sproogen/resume-theme
 
+          **Fall 2020**
+          - Artificial intelligence, Dr. Rohban
+          - Linear algebra, Prof. Rabiee
+
+
+          **spring 2020**
+          - Computer architecture, Prof. Asadi
+          - Data structures and algorithms, Dr. Safarnejad broujeni
+
+
+          **spring 2019**
+          - Advanced programming, Mr. Hatami
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Sharif University of Technology
+        sub_title: B.Sc. Computer Engineering
+        caption: Sep. 2017-Sep. 2022
+        description: |
+          GPA: 17.90/20 (**last six semesters: 18.51/20**)
+
+          **Related courses**
+
+          Convolutional neural networks for visual recognition (audited, online Stanford),
+          machine learning (audited, online Stanford), artificial intelligence, linear algebra,
+          data structures and algorithms, introduction to bioinformatics, modern information retrieval,
+          design of algorithms, probability and statistics, discrete structures.
+      - layout: left
+        title: Allame Amini highschool
+        sub_title: Diploma
+        caption: 2013-2017
+        description: |
+          I received my Diploma in Mathematics and Physics from Allame Amini highschool,
+          where I was ranked 24th out of 350k students in Iranian nationwide mathematics
+          exam (Konkur).
+  - title: A Little More About Me
+    layout: text
+    content: |
+      Alongside my interests in science and technology, some of my other hobbies are:
+        - Reading books: I am a big fan of Fantasy books, and mostly
+        spend my leisure time reading them in English. Sometimes I really feel sick of this world, and I'd like to put my mind away from it and live through the others. Besides, for me the most joyful and cheapest way of journeying is reading books:
+          - J.R.R Tolkien's Valar, Numenor, and Middle-earth history: I have read the <i> Silmarillion </i>, <i> Unfinished Tales </i>, <i> Hobbit </i>, and <i> Lord of the Rings </i> series of sir Tolkien, traveling through the time, and understanding many things
+          like the instinct consequences of envying, seeking the immortality, and forging evil wills. In addition, fates, reasons behind beings of all creatures, and our path in our lives. Seems like we are descendants of the Men, but I prefer to be from Eldar races :(.
+          - J.K. Rowling's Harry Potter series: I have read all seven books of the Harry Potter series, understanding again the consequences of seeking immortality, creating your own enemies by oppression, and the hidden power of Love.
+          - Andrzej Sapkowski's Witcher series: ...
+        - Watching movies
+        - Travelling and nature
+footer_show_references: false
 sass:
   sass_dir: _sass
   style: compressed
-
-
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - lib/
+  - scripts/
+  - docker-compose.yml
