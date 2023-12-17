@@ -1,11 +1,8 @@
-- title: Teradata
+- title: Data Base - Data Warehouse - Data Lake
 #  image: images/tum_gnn.png
   description: |
-     **How to Evaluate Your Graph Neural Network Explanation by Retraining**#
-     **How to Evaluate Your Graph Neural Network Explanation by Retraining**
-#    
-#    ---
-#    some text here
-
-#    <span style="color:#ff8080"> **Alireza Dizaji**, Razieh Rezaei, Anees Kazi, Nassir Navab, Ashkan Khakzar, Daniel Rueckert</span> 
-#    <br><br>
+    <p align='left'>
+        <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://aws.amazon.com/redshift/"><img src="https://img.shields.io/badge/Redshift+2-878280.svg?&style=for-the-badge&logo=amazonredshift&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img alt="Teradata" src="https://img.shields.io/badge/teradata-%2B4-blue?style=for-the-badge&logo=teradata&logoColor=%23F37440">
+    </p>
