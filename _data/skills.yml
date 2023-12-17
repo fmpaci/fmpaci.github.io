@@ -1,7 +1,8 @@
-- name: Teradata
+- title: Teradata
 #  image: images/tum_gnn.png
-#  description: |
-#    ## **How to Evaluate Your Graph Neural Network Explanation by Retraining**
+  description: |
+     **How to Evaluate Your Graph Neural Network Explanation by Retraining**#
+     **How to Evaluate Your Graph Neural Network Explanation by Retraining**
 #    
 #    ---
 #    some text here

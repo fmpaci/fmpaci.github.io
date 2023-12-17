@@ -18,11 +18,8 @@
   dates: Dec 2022 - May 2023
 
   description: |
-    I was working on developing semi-supervised methods to recognize the type of gait disorders of patients using video-series skeleton data. 
-    The main challenge here was the data itself. 
-    Due to the high number of unlabeled data and a considerable amount of missing points of multiple video-series samples, we tried to develop a semi-supervised method to leverage most of these samples.
+      - bullet 1
 
-  
 
 - company:  <br/><a href="https://www.bbva.com.ar/" alt="BBVA"><img src="./images/logo_bbva_azul.svg" height="38"></a><br/><br/>
   job_title: |
@@ -51,38 +48,3 @@
     * For some reasons, including making run-time faster, I have also transported our python codes to C++, using Libtorch.
 
 
-- company: Sharif University of Technology
-  job_title: Research Assistant
-  dates: August 2020 - March 2021
-  description: |
-    In August, I joined [**DML lab**](http://dml.ce.sharif.edu/dmlsite/) as a **Research assistant** where I was working
-    on the impact of **contrastive learning** approaches on **deep reinforcement-learning** algorithms.
-    to be more specific, I implemented [**CURL**](https://arxiv.org/pdf/2004.04136.pdf?ref=https://githubhelp.com) 
-    and [**SIMCLR**](https://arxiv.org/pdf/2002.05709.pdf) (via Pytorch) algorithms to improve the movement of an agent
-    within the Maze environment.
-
-
-- company: Sharif University of Technology
-  job_title: Teaching Assistant
-  dates: Februrary 2019 - July 2021
-  description: |
-    Since my second semester, I have collaborated as a **teaching assistant** with several
-    faculty members of **computer engineering department**. All courses that I have contributed to are listed below:
-
-    **Spring 2021**
-    - Machine learning (M.Sc. course), Dr. Rohban
-    - Modern information retrival, Dr. Soleymani
-    
-    
-    **Fall 2020**
-    - Artificial intelligence, Dr. Rohban
-    - Linear algebra, Prof. Rabiee
-    
-    
-    **spring 2020**
-    - Computer architecture, Prof. Asadi
-    - Data structures and algorithms, Dr. Safarnejad broujeni
-    
-    
-    **spring 2019**
-    - Advanced programming, Mr. Hatami

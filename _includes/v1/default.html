@@ -2,6 +2,10 @@
 {%- include v1/publications.html -%}
 {%- endif -%}  
 
+{%- if site.data.skills.size > 0 -%}
+{%- include v1/skills.html -%}
+{%- endif -%}  
+
 {%- if site.data.projects.size > 0 -%}
   {%- include v1/projects.html -%}
 {%- endif -%}
