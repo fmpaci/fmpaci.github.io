@@ -2,7 +2,9 @@
   description: |
     Data engineer
   job_title: |
-    <img width: 50%; height: auto; src="./images/frubana-logo.svg">
+    <img src="./images/frubana-logo.svg" width: "auto" height: "50%">
+    <img class="web" src="./images/frubana-logo.svg">
+    <img class="mobile" src="./images/frubana-logo.svg" height="38">
     Senior Data Engineer
   dates: Jan 2020 - present
 
