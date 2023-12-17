@@ -117,7 +117,7 @@ content:
 #
 #Build settings
 
-remote_theme: fmpaci/fmpaci.github.io
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
