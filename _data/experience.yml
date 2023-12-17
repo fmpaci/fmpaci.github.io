@@ -1,4 +1,4 @@
-- company: <br/><a href="https://www.frubana.com" alt="Frubana"><img src="./images/frubana-logo.svg" height="38"></a><br/> 
+- company: <br/><a href="https://www.frubana.com" alt="Frubana"><img src="./images/logo-frubana.svg" height="38"></a><br/>
   job_title: |
     Senior Data Engineer
   dates: Jan 2020 - present
@@ -11,7 +11,6 @@
       - Monitor and control datawarehouse and datalake performance, keep track of redshift queue, help clients with query tuning.
       - Keep track of customers tickets and issues.
 
----
 
 - company: <a href="www.eldars.com.ar" alt="Eldar"><img src="./images/logo-eldar.png" height="80"></a><br/>
   job_title: |
@@ -21,9 +20,9 @@
   description: |
     - Database Migration project, from DB2 to MySQL.
     - Design MySQL DDL based on current DB2 database
-    - Generate ETL process for development stage, in order to test cases and changes.
+    - Generate ETL process for development stage, in order to test cases and change made by developers.
     - Suggest changes on datawarehouse model, to reduce impact on extraction step.
-    ----
+
 
 - company:  <br/><a href="https://www.bbva.com.ar/" alt="BBVA"><img src="./images/logo_bbva_azul.svg" height="38"></a><br/><br/>
   job_title: |
@@ -41,7 +40,8 @@
       -Developed a CRM-like application in excel, with connection to different data sources to reduce time consuming tasks.
       -Developed a process to pay different gifts to clients and avoid conflicts between commercial campaigns. 
 
-- company: <br/><a href="https://www.bbva.com.ar/" alt="Centro Construcciones S.A."><img src="./images/logo_bbva_azul.svg" height="38"></a><br/><br/>
+
+- company: <br/><a href="https://centroconstrucciones.com/" alt="Centro Construcciones S.A."><img src="./images/logo-cecosa.png" height="50"></a><br/><br/>
   job_title: R&D Scientist
   dates: April 2021 - December 2022
   description: |
@@ -55,5 +55,4 @@
     them through a sub-branch of projects including devising and implementing more semi-supervised 
     methods with higher accuracy.
     * For some reasons, including making run-time faster, I have also transported our python codes to C++, using Libtorch.
-
 
