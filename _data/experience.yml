@@ -1,10 +1,12 @@
 - company: Frubana 
   description: |
     Data engineer
-  job_title: Data Egineer
+  job_title: |
+    ![Alt text](Frubana Logo) <img src="./images/frubana-logo.svg">
+    Senior Data Engineer
   dates: Jan 2020 - present
 
-- company: Technical University of Munich
+- company: Otra
   description: |
     I was working on developing semi-supervised methods to recognize the type of gait disorders of patients using video-series skeleton data. 
     The main challenge here was the data itself. 
