@@ -1,8 +1,7 @@
 - company: Frubana 
   job_title: |
-    <img src="./images/frubana-logo.svg" height="38"><br/>
+    <a href="frubana.com" alt="Frunbana.com"><img src="./images/frubana-logo.svg" height="38"><br/></a>
     Senior Data Engineer
-  link: frubana.com
   dates: Jan 2020 - present
   description: |
       - Develop ETL SQL process, data modeling, in redshift.
