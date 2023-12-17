@@ -1,0 +1,28 @@
+- name: UADE / Universidad Argentina de la Empresa
+  dates: Mar. 2017 - 
+  qualification: B.Sc. System Engineering
+  description: | # this will include new lines to allow paragraphs
+
+
+- name: Sharif University of Technology
+  dates: Sep 2017 - Sep 2022
+  qualification: B.Sc. System Engineering
+  description: | # this will include new lines to allow paragraphs
+    Studying Computer Engineering at [Computer Engineering Department](http://ce.sharif.edu/).
+    GPA: 17.93/20 (**last six semesters: 18.51/20**)
+
+    **Related courses**
+
+    Convolutional neural networks for visual recognition (audited, online Stanford),
+    machine learning (audited, online Stanford), artificial intelligence, linear algebra,
+    data structures and algorithms, introduction to bioinformatics, modern information retrieval,
+    design of algorithms, probability and statistics, discrete structures.
+         
+    
+- name: Allameh Amini highschool
+  dates: 2013-2017
+  qualification: Diploma
+  description: |
+    I received my Diploma in Mathematics and Physics from Allame Amini highschool,
+    where I was ranked 24th out of 350k students in Iranian nationwide mathematics
+    exam (Konkur).

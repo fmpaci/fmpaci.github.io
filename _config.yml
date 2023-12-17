@@ -8,25 +8,25 @@ version: 2
 # Personal info
 name: Federico Paci
 title: Data Engineer
-email: brett.h@email.co.uk
+email: fmpaci88@gmail.com
 website: www.github.com/fmpaci/fmpaci.github.io
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
-#twitter_username: facespics
+#twitter_username: fmpaci
 github_username:  fmpaci
 # stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-#instagram_username: jameswgrant
+# dribbble_username: fmpaci
+# facebook_username: fmpaci
+# flickr_username: fmpaci
+#instagram_username: fmpaci
 linkedin_username: fpaci
-# xing_username: jekyll
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
+# xing_username: fmpaci
+# pinterest_username: fmpaci
+#youtube_username: fmpaci
+# googleplus_username: +fmpaci
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
@@ -50,15 +50,15 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Federico and I'm a senior Data Engineer.
 
-#  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>SQL </mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Workexperience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Frubana
-#        link: github.com/sproogen
+#  - title: Workexperience # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: top-middle
+#        title: Frubana
+#        link: https://www.frubana.com/
 #        # link_text: Project Website
 #        additional_links:
 #          - title:  sproogen/modern-resume-theme
@@ -72,15 +72,15 @@ content:
 #        description: | # this will include new lines to allow paragraphs
 #          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 #
-#  - title: Experience # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: left
-#        title: The Boring Company
-#        link: boringcompany.com
-#        # link_text: boringcompany.com
-#        sub_title: Senior Network System Administrator
-#        caption: November 2017 - Present
+  - title: Work Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Frubana
+        link: www.frubana.com
+        link_text: frubana.com
+        sub_title: Senior Data Engineer
+        caption: January 2020 - Present
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
 #        description: | # this will include new lines to allow paragraphs
@@ -115,7 +115,10 @@ content:
 #footer_show_references: true
 ## references_title: References on request (Override references text)
 #
-#Build settings
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 remote_theme: sproogen/resume-theme
 
