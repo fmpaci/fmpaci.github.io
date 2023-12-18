@@ -19,7 +19,7 @@ jobs:
         format: Do MMM YYYY
     
     - name: Update _config.yml
-      uses: fjogeleit/yaml-update-action@v0.12.3
+      uses: fjogeleit/yaml-update-action@main
       with:
         valueFile: '_config.yml'
         propertyPath: 'last_updated_time'
