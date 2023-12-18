@@ -2,7 +2,7 @@ name: Trigger Dark Mode
 
 on:
   schedule:
-    - cron: '* 3,6,17,20 * * *'
+    - cron: '0 * * * *'
   
   workflow_dispatch:
 
