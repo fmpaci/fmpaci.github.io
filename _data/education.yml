@@ -1,8 +1,8 @@
-- name: <br/><a href="https://www.uade.edu.ar/" alt="UADE"><img src="./images/logo-uade.svg" height="38"></a><br/>
+- name: <br/><a href="https://www.uade.edu.ar/" alt="UADE"><img src="./images/logo-uade.svg" height="80"></a><br/><br/>
   dates: Mar. 2017 - 
   qualification: B.Sc. System Engineering
   description: | # this will include new lines to allow paragraphs
-
+    Studying System Engineering 
 
 - name: Sharif University of Technology
   dates: Sep 2017 - Sep 2022

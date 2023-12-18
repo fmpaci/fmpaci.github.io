@@ -12,7 +12,7 @@
       - Keep track of customers tickets and issues.
 
 
-- company: <a href="https://www.eldars.com.ar/" alt="Eldar"><img src="./images/logo-eldar-nb.svg" height="80"></a><br/>
+- company: <a href="https://www.eldars.com.ar/" alt="Eldar"><img src="./images/logo-eldar-nb.svg" height="80"></a><br/><br/>
   job_title: |
     Senior Data Engineer 
   dates: Dec 2022 - May 2023
@@ -23,7 +23,7 @@
     - Suggest changes on datawarehouse model, to reduce impact on extraction step.
 
 
-- company:  <br/><a href="https://www.bbva.com.ar/" alt="BBVA"><img src="./images/logo_bbva_azul.svg" height="80"></a><br/><br/>
+- company:  <br/><a href="https://www.bbva.com.ar/" alt="BBVA"><img src="./images/logo_bbva_azul.svg" height="50"></a><br/><br/>
   job_title: |
     Senior Data Engineer 
   dates: May 2018 - Nov 2022
@@ -40,7 +40,7 @@
       - Developed a process to pay different gifts to clients and avoid conflicts between commercial campaigns and budgets. 
 
 
-- company: <br/><a href="https://centroconstrucciones.com/" alt="Centro Construcciones S.A."><img src="./images/logo-cecosa.png" height="80"></a><br/><br/>
+- company: <br/><a href="https://centroconstrucciones.com/" alt="Centro Construcciones S.A."><img src="./images/logo-cecosa.png" height="50"></a><br/><br/>
   job_title: R&D Scientist
   dates: April 2021 - December 2022
   description: |
