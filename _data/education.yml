@@ -2,11 +2,16 @@
   dates: Mar. 2017 - 
   qualification: B.Sc. System Engineering
   description: | # this will include new lines to allow paragraphs
-    Studying System Engineering 
+    Studying System Engineering with focus on databases 
+    
+    **Related courses**
 
-- name: Sharif University of Technology
+    Data structures and algorithms,modern information retrieval,
+    design of algorithms, probability and statistics, discrete structures.
+
+- name: <br/><a href="https://itu.uncuyo.edu.ar/" alt="ITU"><img src="./images/logo-itu.png" height="70"></a><br/><br/>
   dates: Sep 2017 - Sep 2022
-  qualification: B.Sc. System Engineering
+  qualification: Under Degree Industrial computing technician
   description: | # this will include new lines to allow paragraphs
     Studying Computer Engineering at [Computer Engineering Department](http://ce.sharif.edu/).
     GPA: 17.93/20 (**last six semesters: 18.51/20**)
@@ -19,10 +24,8 @@
     design of algorithms, probability and statistics, discrete structures.
          
     
-- name: <b>ETIEC</b> Escuela Técnico Industrial Emilio Civit
-  dates: 2013-2017
-  qualification: Diploma
+- name: <br/><a href="https://www.escuelaetiec.com//" alt="ETIEC"><img src="./images/logo-etiec.jpg" height="90"></a><br/><br/>
+  dates:
+  qualification: High School
   description: |
-    I received my Diploma in Mathematics and Physics from Allame Amini highschool,
-    where I was ranked 24th out of 350k students in Iranian nationwide mathematics
-    exam (Konkur).
+    Hihg school diploma on electric technician

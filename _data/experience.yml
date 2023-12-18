@@ -1,7 +1,7 @@
-- company: <br/><a href="https://www.frubana.com" alt="Frubana"><img src="./images/logo-frubana.svg" height="80"></a><br/>
+- company: <a href="https://www.frubana.com" alt="Frubana"><img src="./images/logo-frubana.svg" height="80"></a><br/>
   job_title: |
     Senior Data Engineer
-  dates: Jan 2020 - present
+  dates: January 2020 - present
   description: |
       - Develop ETL SQL process, data modeling, in redshift.
       - Create data pipelines (ETL/ELT) with Airflow, AWS Glue, and Python
@@ -15,7 +15,7 @@
 - company: <a href="https://www.eldars.com.ar/" alt="Eldar"><img src="./images/logo-eldar-nb.svg" height="80"></a><br/><br/>
   job_title: |
     Senior Data Engineer 
-  dates: Dec 2022 - May 2023
+  dates: May 2021 - Nov 2022
   description: |
     - Database Migration project, from DB2 to MySQL.
     - Design MySQL DDL based on current DB2 database
@@ -26,7 +26,7 @@
 - company:  <br/><a href="https://www.bbva.com.ar/" alt="BBVA"><img src="./images/logo_bbva_azul.svg" height="70"></a><br/><br/>
   job_title: |
     Senior Data Engineer 
-  dates: May 2018 - Nov 2022
+  dates: May 2018 - May 2021
   description: |
     - Develop ETL process, data modeling, and data pipelines in different tools such as SSIS SQL Server Integration Services, Teradata SQL, IPC PowerCenter.
     - Develop end-to-end process or solutions, from gathering user requirements, creating documents and developing SQL codes and couch final users.
@@ -42,7 +42,7 @@
 
 - company: <br/><a href="https://centroconstrucciones.com/" alt="Centro Construcciones S.A."><img src="./images/logo-cecosa.png" height="60"></a><br/><br/>
   job_title: R&D Scientist
-  dates: April 2021 - December 2022
+  dates: May 2017 - May 2018
   description: |
     - T-SQL Development, stored procedure, views, functions, and maintenance plans.
     - Administrations of user profiles and security parameters.

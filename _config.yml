@@ -2,7 +2,7 @@ repository: fmpaci/fmpaci.github.io
 version: 1
 name: Federico Paci
 email: fmpaci88@gmail.com
-darkmode: false
+darkmode: true
 trigger_darkmode:
   start_light: '08'
   start_dark: '18'
