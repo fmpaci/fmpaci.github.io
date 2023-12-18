@@ -1,3 +1,8 @@
+- name: Cloud Infrastructure
+  description: |
+    <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/Amazon_Web_Services-orange.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://aws.amazon.com/cloudformation/"><img src="https://img.shields.io/badge/cloudformation-878280.svg?&style=for-the-badge&logo=amazon-aws-cloudformation&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 - name: Data Base  Data Warehouse  Data Lake
   description: |
     <p align='left'>
@@ -6,10 +11,22 @@
         <img alt="Teradata" src="https://img.shields.io/badge/teradata-%2B4-blue?style=for-the-badge&logo=teradata&logoColor=%23F37440">
     </p>
 
-- name: Data Base
+- name: Scripting
   description: |
     <p align='left'>
-        <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://aws.amazon.com/redshift/"><img src="https://img.shields.io/badge/Redshift+2-878280.svg?&style=for-the-badge&logo=amazonredshift&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <img alt="Teradata" src="https://img.shields.io/badge/teradata-%2B4-blue?style=for-the-badge&logo=teradata&logoColor=%23F37440">
+        <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href=""><img src="https://img.shields.io/badge/sql-878280?style=for-the-badge&logo=sql&logoColor=ffffff" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    </p>
+
+- name: Orchestration
+  description: |
+    <p align='left'>
+      <a href="https://airflow.apache.org/"><img src="https://img.shields.io/badge/Apache_Airflow-2f8780.svg?&style=for-the-badge&logo=apache-airflow" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    </p>
+
+- name: Data Transformation - Data Validation
+  description: |
+    <p align='left'>
+      <a href="https://www.getdbt.com/"><img src="https://img.shields.io/badge/dbt-de5d40.svg?&style=for-the-badge&logo=dbt&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://greatexpectations.io/"><img src="https://img.shields.io/badge/great_expectations-de5d40.svg?&style=for-the-badge&logo=great-expectations&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     </p>
