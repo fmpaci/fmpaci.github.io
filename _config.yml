@@ -5,7 +5,7 @@ email: fmpaci88@gmail.com
 darkmode: false
 trigger_darkmode:
   start_light: '08'
-  start_dark: '19'
+  start_dark: '18'
 last_updated_time: 15th Nov 2023
 
 github_username: fmpaci
@@ -23,6 +23,7 @@ more_content: |
     More content here
 
 footer_show_references: false
+
 sass:
   sass_dir: _sass
   style: compressed

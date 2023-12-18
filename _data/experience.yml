@@ -12,6 +12,7 @@
       - Keep track of customers tickets and issues.
 
 
+
 - company: <a href="www.eldars.com.ar" alt="Eldar"><img src="./images/logo-eldar.png" height="80"></a><br/>
   job_title: |
     Senior Data Engineer 
@@ -22,6 +23,8 @@
     - Design MySQL DDL based on current DB2 database
     - Generate ETL process for development stage, in order to test cases and change made by developers.
     - Suggest changes on datawarehouse model, to reduce impact on extraction step.
+
+
 
 
 - company:  <br/><a href="https://www.bbva.com.ar/" alt="BBVA"><img src="./images/logo_bbva_azul.svg" height="38"></a><br/><br/>
@@ -41,18 +44,35 @@
       - Developed a process to pay different gifts to clients and avoid conflicts between commercial campaigns and budgets. 
 
 
+
+
 - company: <br/><a href="https://centroconstrucciones.com/" alt="Centro Construcciones S.A."><img src="./images/logo-cecosa.png" height="50"></a><br/><br/>
   job_title: R&D Scientist
   dates: April 2021 - December 2022
   description: |
-    For more than a year and a half, I have been collaborating with the CommaMed start-up, 
-    which our goal is to both accelerate and increase the accuracy of diagnosis 
-    by devising novel AI methods. During this duration:
-    * We have been developing multiple semi/weak supervision methods to fill the absence
-    of sufficient data, and our framework is capable of diagnosing malignancy and localizing 
-    highly risk abnormalities with low miss rates. 
-    * In addition, I have contributed to the mentorship and management of interns, guiding
-    them through a sub-branch of projects including devising and implementing more semi-supervised 
-    methods with higher accuracy.
-    * For some reasons, including making run-time faster, I have also transported our python codes to C++, using Libtorch.
+    - T-SQL Development, stored procedure, views, functions, and maintenance plans.
+    - Administrations of user profiles and security parameters.
+    - Document new process, create user manuals, flow charts.
 
+
+- company: <br/><a href="https://centroconstrucciones.com/" alt="Centro Construcciones S.A."><img src="./images/logo-cecosa.png" height="50"></a><br/><br/>
+  job_title: Functional administrator of Softland ERP
+  dates: May 2017 - May 2018
+  description: |
+    - T-SQL Development, stored procedure, views, functions, and maintenance plans.
+    - Administrations of user profiles and security parameters.
+    - Document new process, create user manuals, flow charts.
+
+
+- company: <br/><a href="https://www.impsa.com/quienes-somos/icsa/" alt="ICSA"><img src="./images/logo-icsa.svg" height="50"></a><br/><br/>
+  job_title: Functional Analyst of Epicor ERP
+  dates: October 2012 - July 2017
+  description: |
+    - Gather user requirements and write use case or other documentations.
+    - Development in Progress 4GL ABL, VB .Net.
+    - SQL Server administration, maintenance plans, backups and performance tuning.
+    - Data migration between different system using SSIS. 
+    - TSQL development, stored procedures, views, functions. 
+    - Create reports and dashboards on SSRS and Crystal Reports.
+    - Collaboration with other teams to assure process development can be certified in ISO 9001: 2008, ISO 14001: 2004 and OHSAS 18001: 2007.
+    - QA of developed solutions. 
