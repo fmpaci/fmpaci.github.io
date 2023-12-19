@@ -54,9 +54,11 @@
 }
 
 .layout {
-  margin-top: 3rem;
+  margin-top: 1rem;
   display: flex;
   flex-direction: row;
+  border-bottom: dashed 1px #CCCCCC;
+  margin-bottom: 1px;
 
   .details {
     display: flex;

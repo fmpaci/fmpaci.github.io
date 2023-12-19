@@ -1,5 +1,5 @@
 <div class="container skills-container">
-  <h3 id="{{ site.skill_name | slugify | default: 'skill' }}">{{ site.skill_name | default: "Skills" }}</h3>
+  <h3 id="{{ site.skill_name | slugify | default: 'skill' }}">{{ site.skill_name | default: "Skill" }}</h3>
   {% for skill in site.data.skills %}
     {% include {{ skill.layout | default: 'left' | append: ".html" | prepend: "v1/" }} item=skill %}
   {% endfor %}

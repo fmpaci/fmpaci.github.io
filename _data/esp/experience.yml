@@ -3,13 +3,14 @@
     Senior Data Engineer
   dates: January 2020 - present
   description: |
-        - Develop ETL SQL process, data modeling, in redshift.
-        - Create data pipelines (ETL/ELT) with Airflow, AWS Glue, and Python
-        - Develop Python dags and lambda to gather information from different sources, such as S3, API, google sheets.
-        - Generate insights and dashboards with Metabase, Superset, Redash and Looker
-        - Administer users connections and permissions on Metabase, Superset, Redash, and redshift.
-        - Monitor and control datawarehouse and datalake performance, keep track of redshift queue, help clients with query tuning.
-        - Keep track of customers tickets and issues.
+      - Develop ETL SQL process, data modeling, in redshift.
+      - Create data pipelines (ETL/ELT) with Airflow, AWS Glue, and Python
+      - Develop Python dags and lambda to gather information from different sources, such as S3, API, google sheets.
+      - Generate insights and dashboards with Metabase, Superset, Redash and Looker
+      - Administer users connections and permissions on Metabase, Superset, Redash, and redshift.
+      - Monitor and control datawarehouse and datalake performance, keep track of redshift queue, help clients with query tuning.
+      - Keep track of customers tickets and issues.
+
 
 - company: <a href="https://www.eldars.com.ar/" alt="Eldar"><img src="./images/logo-eldar-nb2.svg" height="80"></a><br/><br/>
   job_title: |
@@ -52,11 +53,12 @@
   job_title: Functional Analyst <br/> Developer of Epicor ERP
   dates: October 2012 - July 2017
   description: |
-      - Gather user requirements and write use case and other documentations.
-      - Development in Progress 4GL ABL, VB .Net.
-      - SQL Server administration, maintenance plans, backups and performance tuning.
-      - Data migration between different system using SSIS. 
-      - TSQL development, stored procedures, views, functions. 
-      - Create reports and dashboards on SSRS and Crystal Reports.
-      - Collaboration with other teams to assure process development can be certified in ISO 9001: 2008, ISO 14001: 2004 and OHSAS 18001: 2007.
-      - QA of developed solutions.
+    - Gather user requirements and write use case or other documentations.
+    - Development in Progress 4GL ABL, VB .Net.
+    - SQL Server administration, maintenance plans, backups and performance tuning.
+    - Data migration between different system using SSIS. 
+    - TSQL development, stored procedures, views, functions. 
+    - Create reports and dashboards on SSRS and Crystal Reports.
+    - Collaboration with other teams to assure process development can be certified in ISO 9001: 2008, ISO 14001: 2004 and OHSAS 18001: 2007.
+    - QA of developed solutions. 
+
