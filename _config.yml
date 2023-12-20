@@ -18,8 +18,8 @@ about_content: |
   - My interests are around the world of Data such as **Data Engineering**, **Data Modeling**, **Data Orchestation**
 
   - My CV: <br>
-  -- <a href="https://fmpaci.github.io/files/CV-Federico.Paci_eng.pdf" target="_blank"><b>CV English</b></a><br>
-  -- <a href="https://fmpaci.github.io/files/CV-Federico.Paci_spa.pdf" target="_blank"><b>CV Spanish</b></a>
+  -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_eng.pdf" target="_blank"><b>CV English</b></a><br>
+  -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_spa.pdf" target="_blank"><b>CV Spanish</b></a>
     
   - Currently I'm studying best practices of DAMA organization to get better performance, governance and metadata management.
   
@@ -48,3 +48,7 @@ exclude:
   - lib/
   - scripts/
   - docker-compose.yml
+
+
+
+

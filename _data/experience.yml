@@ -3,13 +3,13 @@
     Senior Data Engineer
   dates: January 2020 - present
   description: |
-        - Develop ETL SQL process, data modeling, in redshift.
-        - Create data pipelines (ETL/ELT) with Airflow, AWS Glue, and Python
-        - Develop Python dags and lambda to gather information from different sources, such as S3, API, google sheets.
+        - Collaborated on ETL(Extract,Transform,Load) tasks development,maintaining data integrity and verifying pipeline stability. Techs: Airflow, AWS Glue, and Python
+        - Develop Python dags and lambda functions to gather information from different sources, such as S3, API, goggle sheets
+        - Evaluated various tools,technologies,and best practices for potential adoption in company''s data engineering processes.
         - Generate insights and dashboards with Metabase, Superset, Redash and Looker
-        - Administer users connections and permissions on Metabase, Superset, Redash, and redshift.
-        - Monitor and control datawarehouse and datalake performance, keep track of redshift queue, help clients with query tuning.
-        - Keep track of customers tickets and issues.
+        - Administer users connections and permissions on Metabase, Superset, Redash, and redshift
+        - Monitor and control datawarehouse and datalake performance, keep track of redshift queue, help clients with query tuning
+        - Keep track of customers' tickets and issues.
 
 - company: <a href="https://www.eldars.com.ar/" alt="Eldar"><img src="./images/logo-eldar-nb2.svg" height="80"></a><br/><br/>
   job_title: |
