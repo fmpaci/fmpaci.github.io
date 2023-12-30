@@ -15,10 +15,11 @@ about_title: About Me
 about_profile_image: images/me.jpg
 about_content: |
   - I'm Federico Paci and I'm living in Mendoza, Argentina.
-  - My interests are around the world of Data such as **Data Engineering**, **Data Modeling**, **Data Orchestation**
+  - My interests are around the world of Data such as **Data Engineering**, **Data Modeling**, **Data Orchestration**
 
   - My CV: <br>
-  -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_eng.pdf" target="_blank"><b>CV English</b></a><br>
+  -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_eng.pdf" target="_blank"><b>CV English  </b></a><br>
+  -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_EA.pdf" target="_blank"><b>ATS Friendly</b></a><br>
   -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_spa.pdf" target="_blank"><b>CV Spanish</b></a>
     
   - Currently I'm studying best practices of DAMA organization to get better performance, governance and metadata management.
