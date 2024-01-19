@@ -1,6 +1,5 @@
 # fmpaci.github.io
 
 Thanks to the authors of the original post: 
-* x1
-* s2
+* [Sproogen](https://github.com/sproogen) with his amazing template of [modern-resume-theme](https://github.com/sproogen/modern-resume-theme)
 
