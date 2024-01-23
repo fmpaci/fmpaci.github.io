@@ -2,6 +2,7 @@ repository: fmpaci/fmpaci.github.io
 version: 1
 name: Federico Paci
 email: fmpaci88@gmail.com
+title: Data Engineer
 darkmode: false
 trigger_darkmode:
   start_light: '08'
@@ -10,6 +11,10 @@ last_updated_time: 15th Nov 2023
 
 github_username: fmpaci
 linkedin_username: fpaci
+
+show_calendar: true
+calendar_embed: AcZssZ2z7G3kgzgPrYZiIoB2FLTA3AjkHI3FW3L9taLFrouGNiG8fdfDf8AtiPXSbHBTyU2ZqZwdXbfn
+calendar_button: xXABYw4RUQ5JDQpa8
 
 about_title: About Me
 about_profile_image: images/me.jpg

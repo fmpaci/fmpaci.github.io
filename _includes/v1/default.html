@@ -19,5 +19,9 @@
 {%- endif -%}
 
 {%- if site.more_content -%}
- <!-- {%- include v1/more.html -%} -->
+ {%- include v1/more.html -%}
+{%- endif -%}
+
+{%- if site.show_calendar == true -%}
+ {%- include v1/calendar.html -%}
 {%- endif -%}
