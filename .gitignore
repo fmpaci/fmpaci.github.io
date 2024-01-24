@@ -2,7 +2,6 @@
 .bundle
 .sass-cache
 _site
-Gemfile.lock
 *.code-workspace
 .DS_Store
 .idea
