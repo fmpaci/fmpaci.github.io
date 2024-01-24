@@ -3,7 +3,7 @@
     Senior Data Engineer
   github: frubana
   link: frubana.com
-  dates: January 2020 - present
+  dates: January 2022 - December 2024
   description: |
         - Collaborated on ETL(Extract,Transform,Load) tasks development,maintaining data integrity and verifying pipeline stability. Techs: Airflow, AWS Glue, and Python
         - Develop Python dags and lambda functions to gather information from different sources, such as S3, API, goggle sheets
@@ -19,6 +19,7 @@
   link: eldars.com.ar
   dates: May 2022 - Nov 2022
   description: |
+    <br/>
     - Database Migration project, from DB2 to MySQL.
     - Design MySQL DDL based on current DB2 database
     - Generate ETL process for development stage, in order to test cases and change made by developers.
@@ -46,6 +47,7 @@
   job_title: Functional Analyst of Softland ERP
   dates: May 2017 - May 2018
   description: |
+    <br/>
     - T-SQL Development, stored procedure, views, functions, and maintenance plans.
     - Administrations of user profiles and security parameters.
     - Document new process, create user manuals, flow charts.

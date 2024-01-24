@@ -16,17 +16,20 @@ show_calendar: true
 calendar_embed: AcZssZ2z7G3kgzgPrYZiIoB2FLTA3AjkHI3FW3L9taLFrouGNiG8fdfDf8AtiPXSbHBTyU2ZqZwdXbfn
 calendar_button: xXABYw4RUQ5JDQpa8
 
+cv_main_file: "https://fmpaci.github.io/files/CV_Federico_Paci_eng.pdf"
+
 about_title: About Me
 about_profile_image: images/me.jpg
-about_content: |
+about_content: | 
+  <br> 
   - I'm Federico Paci and I'm living in Mendoza, Argentina.
   - My interests are around the world of Data such as **Data Engineering**, **Data Modeling**, **Data Orchestration**
 
   - My CV: <br>
-  -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_eng.pdf" target="_blank"><b>CV English  </b></a><br>
-  -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_EA.pdf" target="_blank"><b>ATS Friendly</b></a><br>
-  -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_spa.pdf" target="_blank"><b>CV Spanish</b></a>
-    
+  -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_eng.pdf" target="_blank"> <i class="fa fa-file-pdf-o" title="CV PDF"></i> <b>CV English  </b></a><br>
+  -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_EA.pdf" target="_blank"> <i class="fa fa-file-pdf-o" title="CV PDF"></i> <b>ATS Friendly</b></a><br>
+  -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_spa.pdf" target="_blank"> <i class="fa fa-file-pdf-o" title="CV PDF"></i> <b>CV Spanish</b></a><br>
+  
   - Currently I'm studying best practices of DAMA organization to get better performance, governance and metadata management.
   
   - I'm a self-motivated Data Engineer with +5 years of experience in data warehouse, ETL Development, data management. 
@@ -34,7 +37,7 @@ about_content: |
   Bringing comprehensive understanding of warehouse operations and documentation needs.
 
 #more_content: |
-#    More content here
+#    - More content here
 
 footer_show_references: false
 

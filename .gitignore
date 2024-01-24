@@ -5,5 +5,5 @@ _site
 *.code-workspace
 .DS_Store
 .idea
-.github
+trigger_darkmode.yml
 commands
