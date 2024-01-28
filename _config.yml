@@ -1,20 +1,58 @@
+# Site config
 repository: fmpaci/fmpaci.github.io
+
+favicon: images/favicon.ico
+
+# Content configuration version
 version: 1
+
+# Personal info
 name: Federico Paci
-email: fmpaci88@gmail.com
 title: Data Engineer
+# email_title: Email (Email title override)
+email: fmpaci88@gmail.com
+# phone: Your phone number (optional)
+# phone_title: Phone (Phone title override)
+# website: Your website (eg. https://google.com)(optional)
+# website_title: Web (Website title override)
+
+# Dark Mode (true/false/never)
 darkmode: false
 trigger_darkmode:
   start_light: '08'
   start_dark: '18'
 last_updated_time: 24th Jan 2024
+
+# Social links
 github_username: fmpaci
 linkedin_username: fpaci
+
 show_calendar: true
 calendar_embed: AcZssZ2z7G3kgzgPrYZiIoB2FLTA3AjkHI3FW3L9taLFrouGNiG8fdfDf8AtiPXSbHBTyU2ZqZwdXbfn
 calendar_button: xXABYw4RUQ5JDQpa8
+
 cv_main_file: https://fmpaci.github.io/files/CV_Federico_Paci_eng.pdf
-about_title: About Me
+
+#additional_links:
+#- title: Link name
+#  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
+
+
+# additional_links:
+# - title: Calendar
+#   icon: fa fa-calendar-plus-o
+#   url: https://calendar.app.google/xXABYw4RUQ5JDQpa8
+
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+gtm: "GTM-PRMFT7ZF"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
 about_profile_image: images/me.jpg
 about_content: |
   <br> 
@@ -31,7 +69,14 @@ about_content: |
   - I'm a self-motivated Data Engineer with +5 years of experience in data warehouse, ETL Development, data management. 
   Collaborates effectively with multi-functional roles to identify and leverage areas for improvement in data systems.
   Bringing comprehensive understanding of warehouse operations and documentation needs.
+  
+# Footer
 footer_show_references: false
+# references_title: References on request (Override references text)
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 sass:
   sass_dir: _sass
   style: compressed
