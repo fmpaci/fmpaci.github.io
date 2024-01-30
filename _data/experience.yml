@@ -3,7 +3,7 @@
     Senior Data Engineer
   github: frubana
   link: frubana.com
-  dates: January 2022 - December 2024
+  dates: January 2022 - December 2023
   description: |
         - Collaborated on ETL(Extract,Transform,Load) tasks development,maintaining data integrity and verifying pipeline stability. Techs: Airflow, AWS Glue, and Python
         - Develop Python dags and lambda functions to gather information from different sources, such as S3, API, goggle sheets

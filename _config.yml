@@ -47,7 +47,7 @@ cv_main_file: https://fmpaci.github.io/files/CV_Federico_Paci_eng.pdf
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
-gtm: "GTM-PRMFT7ZF"
+# gtm: "GTM-PRMFT7ZF"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
 
@@ -59,9 +59,8 @@ about_content: |
   - I'm Federico Paci and I'm living in Mendoza, Argentina.
   - My interests are around the world of Data such as **Data Engineering**, **Data Modeling**, **Data Orchestration**
 
-  - My CV: <br>
+  - My CVs: <br>
   -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_eng.pdf" target="_blank"> <i class="fa fa-file-pdf-o" title="CV PDF"></i> <b>CV English  </b></a><br>
-  -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_EA.pdf" target="_blank"> <i class="fa fa-file-pdf-o" title="CV PDF"></i> <b>ATS Friendly</b></a><br>
   -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_spa.pdf" target="_blank"> <i class="fa fa-file-pdf-o" title="CV PDF"></i> <b>CV Spanish</b></a><br>
 
   - Currently I'm studying best practices of DAMA organization to get better performance, governance and metadata management.

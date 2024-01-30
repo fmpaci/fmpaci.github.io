@@ -7,5 +7,5 @@ _site
 .idea
 trigger_darkmode.yml
 commands
-.github
 gemfile.lock
+trigger_darkmode.yml
