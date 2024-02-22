@@ -1,0 +1,41 @@
+ <div class="nav-div">
+
+        <ul class="nav-list">
+            <a href="#home"><li class="nav-item">About Me</li></a>
+            {%- if site.data.publications.size > 0 -%}
+                <a href="#{{ site.publications_title | default: 'Publications' }}"><li class="nav-item">{{ site.publications_title | default: "Publications" }}</li></a>
+            {%- endif -%}
+
+            {%- if site.data.skills.size > 0 -%}
+                <a href="#{{ site.skill_name | slugify | default: 'Skills' }}"><li class="nav-item">{{ site.skill_name | default: 'Skills' }}</li></a>
+            {%- endif -%}
+
+            {%- if site.data.projects.size > 0 -%}
+                <a href="#{{ site.projects_title | default: 'Projects' }}"><li class="nav-item">{{ site.projects_title | default: "Projects" }}</li></a>
+            {%- endif -%}
+
+            {%- if site.data.experience.size > 0 -%}
+                <a href="#{{ site.experience_title |  default: 'Experience' }}"><li class="nav-item">{{ site.experience_title | default: 'Experience' }}</li></a>
+            {%- endif -%}
+
+            {%- if site.data.education.size > 0 -%}
+                <a href="#{{ site.education_title | slugify | default: 'Education' }}"><li class="nav-item">{{ site.education_title | default: 'Education' }}</li></a>
+            {%- endif -%}
+
+            {%- if site.data.certification.size > 0 -%}
+                <a href="#{{ site.certification_title | slugify | default: 'certification' }}"><li class="nav-item">{{ site.certification_title | default: 'Certification' }}</li></a>
+            {%- endif -%}
+
+            {%- if site.more_content -%}
+                <a href="#{{ site.more_title | slugify | default: 'a-little-bit-more-about-me' }}"><li class="nav-item">{{ site.more_title | default: "A Little More About Me" }}</li></a>
+            {%- endif -%}
+
+            {%- if site.show_calendar == true -%}
+                <a href="#{{ site.calendar_title | slugify | default: 'calendar' }}"><li class="nav-item">{{ site.data.more_title | default: "Calendar" }}</li></a>
+            {%- endif -%}
+
+
+        </ul>
+ </div>
+
+

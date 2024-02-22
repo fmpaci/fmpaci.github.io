@@ -4,6 +4,69 @@
 @import "dark";
 @import "icons";
 
+.logo{
+  width:max-content;
+  margin: auto 2rem;
+  background: #333333;
+  color:white;
+  h1 {
+    font-size: 2.1rem;
+    margin-bottom: 0.1rem;
+    font-weight: 500;
+  }
+
+  h2 {
+    font-weight: 300;
+    font-size: 1.3rem;
+  }
+}
+
+.nav-div{
+    display:flex;
+    flex-wrap:wrap;
+    background: #333333;
+    color:#333333;
+    margin:0;
+    padding:1rem;
+    position: sticky;
+    top:0;
+    font-size: 18px;
+    font-weight: bold;
+    width:100%;
+    z-index: 5;
+
+  }
+
+.nav-list{
+    display:flex;
+    flex-wrap:wrap;
+    list-style:none;
+    width:max-content;
+    margin-left:auto;
+    margin-right:3rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background: #333333;
+    position: sticky;
+
+  }
+
+  .nav-list a{
+      text-decoration: none;
+
+  }
+
+  .nav-item{
+    padding: 0px 1.5rem;
+
+
+  }
+.nav-list li:hover{
+    transform: scale(1.2);
+    color: whitesmoke;
+}
+
+
 .header-right p {
   margin-bottom: 3px;
 }
@@ -40,6 +103,7 @@
   -moz-box-shadow: inset 0 0 20px #636161;
   -webkit-box-shadow: inset 0 0 20px #636161;
   box-shadow: inset 0 0 20px #636161;
+  z-index: 3;
 }
 
 .list-container {

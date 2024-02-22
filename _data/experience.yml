@@ -1,4 +1,4 @@
-- company: <br/><a target="_blank" href="https://www.frubana.com" alt="Frubana"><img src="./images/logo-frubana.svg" height="80"></a><br/>
+- company: <br/><a target="_blank" href="https://www.frubana.com" alt="Frubana"><img src="./images/logos/logo-frubana.svg" height="80"></a><br/>
   job_title: |
     Senior Data Engineer
   github: frubana
@@ -13,7 +13,7 @@
         - Monitor and control datawarehouse and datalake performance, keep track of redshift queue, help clients with query tuning
         - Keep track of customers' tickets and issues.
 
-- company: <a target="_blank" href="https://www.coderhouse.com/" alt="CoderHouse"><img src="./images/logo-coder.png" height="100"></a><br/>
+- company: <a target="_blank" href="https://www.coderhouse.com/" alt="CoderHouse"><img src="./images/logos/logo-coder.png" height="100"></a><br/>
   job_title: |
     SQL Professor
   link: coderhouse.com
@@ -27,7 +27,7 @@
     - Researched and selected course texts and supplemental learning materials.
 
 
-- company: <br/><a target="_blank"  href="https://www.eldars.com.ar/" alt="Eldar"><img src="./images/logo-eldar-nb2.svg" height="80"></a><br/><br/>
+- company: <br/><a target="_blank"  href="https://www.eldars.com.ar/" alt="Eldar"><img src="./images/logos/logo-eldar-nb2.svg" height="80"></a><br/><br/>
   job_title: |
     Senior Data Engineer
   link: eldars.com.ar
@@ -40,7 +40,7 @@
     - Suggest changes on datawarehouse model, to reduce impact on extraction step.
 
 
-- company:  <br/><a target="_blank" href="https://www.bbva.com.ar/" alt="BBVA"><img src="./images/logo_bbva_azul.svg" height="70"></a><br/><br/>
+- company:  <br/><a target="_blank" href="https://www.bbva.com.ar/" alt="BBVA"><img src="./images/logos/logo_bbva_azul.svg" height="70"></a><br/><br/>
   job_title: |
     Senior Data Engineer 
   dates: May 2018 - May 2021
@@ -57,7 +57,7 @@
       - Developed a process to pay different gifts to clients and avoid conflicts between commercial campaigns and budgets. 
 
 
-- company: <br/><a target="_blank" href="https://centroconstrucciones.com/" alt="Centro Construcciones S.A."><img src="./images/logo-cecosa.png" height="60"></a><br/><br/>
+- company: <br/><a target="_blank" href="https://centroconstrucciones.com/" alt="Centro Construcciones S.A."><img src="./images/logos/logo-cecosa.png" height="60"></a><br/><br/>
   job_title: Functional Analyst of Softland ERP
   dates: May 2017 - May 2018
   description: |
@@ -67,7 +67,7 @@
     - Document new process, create user manuals, flow charts.
 
 
-- company: <br/><a target="_blank" href="https://www.impsa.com/quienes-somos/icsa/" alt="ICSA"><img src="./images/logo-icsa.svg" height="90"></a><br/><br/>
+- company: <br/><a target="_blank" href="https://www.impsa.com/quienes-somos/icsa/" alt="ICSA"><img src="./images/logos/logo-icsa.svg" height="90"></a><br/><br/>
   job_title: Functional Analyst <br/> Developer of Epicor ERP
   dates: October 2012 - July 2017
   description: |
