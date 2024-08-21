@@ -8,7 +8,7 @@ darkmode: false
 trigger_darkmode:
   start_light: '08'
   start_dark: '18'
-last_updated_time: 30th Jan 2024
+last_updated_time: 21th AUG 2024
 github_username: fmpaci
 linkedin_username: fpaci
 show_calendar: true
