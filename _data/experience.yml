@@ -1,19 +1,36 @@
-- company: <br/><a target="_blank" href="https://www.frubana.com" alt="Frubana"><img src="./images/logo-frubana.svg" height="80"></a><br/>
+- company: <br/><a target="_blank" href="https://www.speareducation.com/" alt="Spear Education"><img src="./images/logos/logo-spear.svg" height="80"></a><br/>
+  job_title: |
+    Senior Data Engineer
+  github: speareducation
+  link: speareducation.com
+  dates: February 2024 - Present
+  #stack: |
+  #   <p> <iconify-icon icon="logos:python" width="16" height="16" ></iconify-icon> Python  </p>
+  #   <p> <iconify-icon icon="logos:aws-glue" width="20" height="20" ></iconify-icon> Glue </p>
+  description: |
+        - Project to build a new data architecture, considering the different options and strategies such as lakehouse, warehouse, evaluating different technologies to achieve the goal.
+        - ETL(Extract,Transform,Load) tasks development, maintaining data integrity and verifying pipeline stability. Stack: Snowflake, Redshift, Matillion, AWS Glue, Python, SQL, Dremio, Coalesce  
+        - Develop Python scripts to get data from different sources, such as S3, API, Parquet files, etc
+        - Monitor and control datawarehouse and datalake performance
+
+
+
+- company: <br/><a target="_blank" href="https://www.frubana.com" alt="Frubana"><img src="./images/logos/logo-frubana.svg" height="80"></a><br/>
   job_title: |
     Senior Data Engineer
   github: frubana
   link: frubana.com
   dates: January 2022 - December 2023
   description: |
-        - Collaborated on ETL(Extract,Transform,Load) tasks development,maintaining data integrity and verifying pipeline stability. Techs: Airflow, AWS Glue, and Python
+        - Collaborated on ETL(Extract,Transform,Load) tasks development,maintaining data integrity and verifying pipeline stability. Techs: Airflow, AWS Glue, SQL, Python
         - Develop Python dags and lambda functions to gather information from different sources, such as S3, API, goggle sheets
-        - Evaluated various tools,technologies,and best practices for potential adoption in company''s data engineering processes.
+        - Evaluated various tools,technologies,and best practices for potential adoption in company's data engineering processes.
         - Generate insights and dashboards with Metabase, Superset, Redash and Looker
         - Administer users connections and permissions on Metabase, Superset, Redash, and redshift
         - Monitor and control datawarehouse and datalake performance, keep track of redshift queue, help clients with query tuning
         - Keep track of customers' tickets and issues.
 
-- company: <a target="_blank" href="https://www.coderhouse.com/" alt="CoderHouse"><img src="./images/logo-coder.png" height="100"></a><br/>
+- company: <a target="_blank" href="https://www.coderhouse.com/" alt="CoderHouse"><img src="./images/logos/logo-coder.png" height="100"></a><br/>
   job_title: |
     SQL Professor
   link: coderhouse.com
@@ -27,10 +44,10 @@
     - Researched and selected course texts and supplemental learning materials.
 
 
-- company: <br/><a target="_blank"  href="https://www.eldars.com.ar/" alt="Eldar"><img src="./images/logo-eldar-nb2.svg" height="80"></a><br/><br/>
+- company: <br/><a target="_blank"  href="https://www.eldars.com.ar/" alt="Eldar"><img src="./images/logos/logo-eldar-nb2.svg" height="80"></a><br/><br/>
   job_title: |
     Senior Data Engineer
-  link: eldars.com.ar
+  link: https://eldars.com.ar
   dates: May 2022 - Nov 2022
   description: |
     <br/>
@@ -40,9 +57,10 @@
     - Suggest changes on datawarehouse model, to reduce impact on extraction step.
 
 
-- company:  <br/><a target="_blank" href="https://www.bbva.com.ar/" alt="BBVA"><img src="./images/logo_bbva_azul.svg" height="70"></a><br/><br/>
+- company:  <br/><a target="_blank" href="https://www.bbva.com.ar/" alt="BBVA"><img src="./images/logos/logo_bbva_azul.svg" height="70"></a><br/><br/>
   job_title: |
-    Senior Data Engineer 
+    Senior Data Engineer
+  link: https://www.bbva.com.ar/
   dates: May 2018 - May 2021
   description: |
     - Develop ETL process, data modeling, and data pipelines in different tools such as SSIS SQL Server Integration Services, Teradata SQL, IPC PowerCenter.
@@ -57,8 +75,9 @@
       - Developed a process to pay different gifts to clients and avoid conflicts between commercial campaigns and budgets. 
 
 
-- company: <br/><a target="_blank" href="https://centroconstrucciones.com/" alt="Centro Construcciones S.A."><img src="./images/logo-cecosa.png" height="60"></a><br/><br/>
+- company: <br/><a target="_blank" href="https://centroconstrucciones.com/" alt="Centro Construcciones S.A."><img src="./images/logos/logo-cecosa.png" height="60"></a><br/><br/>
   job_title: Functional Analyst of Softland ERP
+  link: https://centroconstrucciones.com/
   dates: May 2017 - May 2018
   description: |
     <br/>
@@ -67,8 +86,9 @@
     - Document new process, create user manuals, flow charts.
 
 
-- company: <br/><a target="_blank" href="https://www.impsa.com/quienes-somos/icsa/" alt="ICSA"><img src="./images/logo-icsa.svg" height="90"></a><br/><br/>
+- company: <br/><a target="_blank" href="https://www.impsa.com/quienes-somos/icsa/" alt="ICSA"><img src="./images/logos/logo-icsa.svg" height="90"></a><br/><br/>
   job_title: Functional Analyst <br/> Developer of Epicor ERP
+  link: https://www.impsa.com/quienes-somos/icsa/
   dates: October 2012 - July 2017
   description: |
       - Gather user requirements and write use case and other documentations.

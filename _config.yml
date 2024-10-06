@@ -6,16 +6,16 @@ title: Data Engineer
 email: fmpaci88@gmail.com
 darkmode: false
 trigger_darkmode:
-  start_light: '08'
-  start_dark: '18'
-last_updated_time: 30th Jan 2024
+  start_light: '07'
+  start_dark: '19'
+last_updated_time: 05th OCT 2024
 github_username: fmpaci
 linkedin_username: fpaci
 show_calendar: true
 calendar_embed: AcZssZ2z7G3kgzgPrYZiIoB2FLTA3AjkHI3FW3L9taLFrouGNiG8fdfDf8AtiPXSbHBTyU2ZqZwdXbfn
 calendar_button: xXABYw4RUQ5JDQpa8
 cv_main_file: https://fmpaci.github.io/files/CV_Federico_Paci_eng.pdf
-about_profile_image: images/me.jpg
+about_profile_image: images/me_01.jpg
 about_content: |
   <br> 
   - I'm Federico Paci and I'm living in Mendoza, Argentina.
@@ -25,11 +25,14 @@ about_content: |
   -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_eng.pdf" target="_blank"> <i class="fa fa-file-pdf-o" title="CV PDF"></i> <b>CV English  </b></a><br>
   -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_spa.pdf" target="_blank"> <i class="fa fa-file-pdf-o" title="CV PDF"></i> <b>CV Spanish</b></a><br>
 
-  - Currently I'm studying best practices of DAMA organization to get better performance, governance and metadata management.
 
   - I'm a self-motivated Data Engineer with +5 years of experience in data warehouse, ETL Development, data management. 
   Collaborates effectively with multi-functional roles to identify and leverage areas for improvement in data systems.
   Bringing comprehensive understanding of warehouse operations and documentation needs.
+
+
+# - Currently I'm studying best practices of DAMA organization to get better performance, governance and metadata management.
+
 footer_show_references: false
 sass:
   sass_dir: _sass
