@@ -207,6 +207,7 @@
   }
 }
 
+
 .layout-top-middle {
   .details {
     text-align: center;
@@ -258,6 +259,18 @@ p.quote {
     margin-top: 1rem;
   }
 }
+p.stack {
+  font-size: 1.4rem;
+  font-style: italic;
+  padding: 1rem 2.5rem;
+  text-align: center;
+  border-bottom: dashed 1px #CCCCCC;
+  @media print {
+    text-align: left;
+    padding: 0rem 1rem;
+    margin-top: 1rem;
+  }
+}
 
 .pub-img {
   margin-top: 20px;
@@ -271,3 +284,5 @@ p.quote {
   -khtml-background-size: 100% 100%; /*  Konqueror  */
   -moz-background-size: 100% 100%; /*  Firefox  */
 }
+
+

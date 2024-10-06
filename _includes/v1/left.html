@@ -19,11 +19,18 @@
         </a>
       </p>
     {%- endif -%}
+
   </div>
   <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
     {%- if include.item.quote -%}
       <p class="quote">{{ include.item.quote }}</p>
     {%- endif -%}
     {{ include.item.description | strip | markdownify }}
+    {%- if include.item.stack -%}
+       <p class="stack">Stack</p>
+       <div class="container skills-container">
+        {{ include.item.stack | strip | markdownify }}
+       </div>
+    {%- endif -%}
   </div>
 </div>
