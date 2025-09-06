@@ -1,6 +1,6 @@
 <div class="container certification-container">
-  <h3 id="{{ site.certification_title | slugify | default: 'certification' }}">{{ site.certification_title | default: "Certifications" }}</h3>
-  {% for certification in site.data.certification %}
+  <h3 id="{{ page.certification_title | default: site.certification_title | slugify | default: 'certification' }}">{{ page.certification_title | default: site.certification_title | default: "Certifications" }}</h3>
+  {% for certification in data_root.certification %}
     {% include {{ certification.layout | default: 'left' | append: ".html" | prepend: "v1/" }} item=certification %}
   {% endfor %}
 </div>

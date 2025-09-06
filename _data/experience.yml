@@ -1,7 +1,7 @@
 - company: <br/><a target="_blank" href="https://fmpaci.com/" alt="Brinta"><img
-    src="./images/logos/logo-pp_01.jpeg" ></a><br/>
+    src="/images/logos/logo-pp_01.jpeg" ></a><br/>
   job_title: |
-    Personal Project for tech infrastructure
+    Personal Project for health-tech infrastructure
   link: null
   dates: May 2025 - Present
 
@@ -12,7 +12,7 @@
     - Trained staff and provided ongoing support, tracking issues and iterating on improvements.
 
 - company: <br/><a target="_blank" href="https://brinta.com/" alt="Brinta"><img
-    src="./images/logos/logo-brinta_02.svg" height="100"></a><br/>
+    src="/images/logos/logo-brinta_02.svg" height="100"></a><br/>
   job_title: |
     Senior Data Engineer
   link: brinta.com
@@ -20,10 +20,12 @@
   stack: |
      <p><iconify-icon icon="logos:python" width="12" height="12"></iconify-icon> Python</p>
      <p><iconify-icon icon="logos:apache-spark" width="12" height="12"></iconify-icon> Spark</p>
-     <p><iconify-icon icon="logos:apache-airflow" width="12" height="12"></iconify-icon> Airflow</p>
+     <p><iconify-icon icon="logos:airflow-icon" width="12" height="12"></iconify-icon> Airflow</p>
      <p><iconify-icon icon="logos:aws" width="12" height="12"></iconify-icon> AWS</p>
      <p><iconify-icon icon="logos:aws-glue" width="12" height="12"></iconify-icon> Glue</p>
-     <p><iconify-icon icon="logos:amazon-s3" width="12" height="12"></iconify-icon> S3</p>
+     <p><iconify-icon icon="logos:aws-s3" width="12" height="12"></iconify-icon> S3</p>
+     <p><iconify-icon icon="logos:postgresql" width="12" height="12"></iconify-icon> PostgreSQL</p>
+  
   description: |
     - Design and develop ETL/ELT pipelines with PySpark.
     - Migrate legacy jobs to AWS-based stack, improving scalability, reliability, and maintainability.
@@ -35,7 +37,7 @@
     - Aply engineering best practices: code reviews, CI/CD, IaC, security, and governance.
 
 - company: <br/><a target="_blank" href="https://www.speareducation.com/"
-    alt="Spear Education"><img src="./images/logos/logo-spear.svg"
+    alt="Spear Education"><img src="/images/logos/logo-spear.svg"
     height="80"></a><br/>
   job_title: |
     Senior Data Engineer
@@ -56,13 +58,13 @@
     - Keep track of customers' tickets and issues.
 
 - company: <br/><a target="_blank" href="https://www.frubana.com"
-    alt="Frubana"><img src="./images/logos/logo-frubana.svg"
+    alt="Frubana"><img src="/images/logos/logo-frubana.svg"
     height="80"></a><br/>
   job_title: |
     Senior Data Engineer
   github: frubana
   link: frubana.com
-  dates: January 2022 - December 2023
+  dates: January 2022 - January 2024
   stack: |
      <p><iconify-icon icon="logos:apache-airflow" width="12" height="12"></iconify-icon> Airflow</p>
      <p><iconify-icon icon="logos:aws-glue" width="12" height="12"></iconify-icon> Glue</p>
@@ -78,7 +80,7 @@
     - Keep track of customers' tickets and issues.
 
 - company: <a target="_blank" href="https://www.coderhouse.com/"
-    alt="CoderHouse"><img src="./images/logos/logo-coder.png"
+    alt="CoderHouse"><img src="/images/logos/logo-coder.png"
     height="100"></a><br/>
   job_title: |
     SQL Professor
@@ -93,7 +95,7 @@
     - Researched and selected course texts and supplemental learning materials.
 
 - company: <br/><a target="_blank"  href="https://www.eldars.com.ar/"
-    alt="Eldar"><img src="./images/logos/logo-eldar-nb2.svg"
+    alt="Eldar"><img src="/images/logos/logo-eldar-nb2.svg"
     height="80"></a><br/><br/>
   job_title: |
     Senior Data Engineer
@@ -107,7 +109,7 @@
             - Suggest changes on data warehouse model, to reduce impact on extraction step.
 
 - company: <br/><a target="_blank" href="https://www.bbva.com.ar/" alt="BBVA"><img
-    src="./images/logos/logo_bbva_azul.svg" height="70"></a><br/><br/>
+    src="/images/logos/logo_bbva_azul.svg" height="70"></a><br/><br/>
   job_title: |
     Senior Data Engineer
   link: https://www.bbva.com.ar/
@@ -125,7 +127,7 @@
       - Developed a process to pay different gifts to clients and avoid conflicts between commercial campaigns and budgets.
 
 - company: <br/><a target="_blank" href="https://centroconstrucciones.com/"
-    alt="Centro Construcciones S.A."><img src="./images/logos/logo-cecosa.png"
+    alt="Centro Construcciones S.A."><img src="/images/logos/logo-cecosa.png"
     height="60"></a><br/><br/>
   job_title: Functional Analyst of Softland ERP
   link: https://centroconstrucciones.com/
@@ -138,7 +140,7 @@
 
 - company: <br/><a target="_blank"
     href="https://www.impsa.com/quienes-somos/icsa/" alt="ICSA"><img
-    src="./images/logos/logo-icsa.svg" height="90"></a><br/><br/>
+    src="/images/logos/logo-icsa.svg" height="90"></a><br/><br/>
   job_title: Functional Analyst <br/> Developer of Epicor ERP
   link: https://www.impsa.com/quienes-somos/icsa/
   dates: October 2012 - July 2017

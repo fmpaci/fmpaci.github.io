@@ -1,6 +1,6 @@
 <div class="container education-container">
-  <h3 id="{{ site.education_title | slugify | default: 'Education' }}">{{ site.education_title | default: "Education" }}</h3>
-  {% for education in site.data.education %}
+  <h3 id="{{ page.education_title | default: site.education_title | slugify | default: 'Education' }}">{{ page.education_title | default: site.education_title | default: "Education" }}</h3>
+  {% for education in data_root.education %}
     {% include {{ education.layout | default: 'left' | append: ".html" | prepend: "v1/" }} item=education %}
   {% endfor %}
 </div>

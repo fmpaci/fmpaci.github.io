@@ -1,5 +1,5 @@
 <div class="container intro-container">
-  <h3 id="{{ site.about_title | slugify | default: 'about-me' }}">{{ site.about_title | default:
+  <h3 id="{{ page.about_title | default: site.about_title | slugify | default: 'about-me' }}">{{ page.about_title | default: site.about_title | default:
   "About Me" }}</h3>
   <div class="row clearfix">
     {%- if site.about_profile_image -%}
@@ -9,9 +9,13 @@
     {%- endif -%}
     <div class="{{ 'col-xs-12 ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
       {%- if site.last_updated_time != null -%}
-        <i style="font-size: 12px;">(Last Updated: {{ site.last_updated_time }})</i>
+        <i style="font-size: 12px;">({% if page.lang == 'es' %}Última actualización{% else %}Last Updated{% endif %}: {{ site.last_updated_time }})</i>
       {%- endif -%}
-      {{ site.about_content | strip | markdownify }}
+      {% if page.lang == 'es' and site.about_content_es %}
+        {{ site.about_content_es | strip | markdownify }}
+      {% else %}
+        {{ site.about_content | strip | markdownify }}
+      {% endif %}
 
     </div>
 

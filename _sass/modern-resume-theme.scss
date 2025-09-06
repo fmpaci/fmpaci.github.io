@@ -295,7 +295,8 @@ p.stack::after {
   font-size: 12px;
   line-height: 1;
   white-space: nowrap;
-  overflow-x: auto;
+  // Other options for overflow-x include: visible, hidden, scroll, clip, and inherit.
+  overflow-x: scroll;
 }
 
 .stack-inline p {

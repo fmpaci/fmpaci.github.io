@@ -1,6 +1,6 @@
 <div class="container skills-container">
-  <h3 id="{{ site.skill_name | slugify | default: 'Skills' }}">{{ site.skill_name | default: "Skills" }}</h3>
-  {% for skill in site.data.skills %}
+  <h3 id="{{ page.skill_name | default: site.skill_name | slugify | default: 'Skills' }}">{{ page.skill_name | default: site.skill_name | default: "Skills" }}</h3>
+  {% for skill in data_root.skills %}
     {% include {{ skill.layout | default: 'left' | append: ".html" | prepend: "v1/" }} item=skill %}
   {% endfor %}
 </div>

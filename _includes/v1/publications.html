@@ -1,6 +1,6 @@
 <div class="container publications-container">
-    <h3>{{ site.publications_title | default: "Publications" }}</h3>
-    {% for publication in site.data.publications %}
+    <h3>{{ page.publications_title | default: site.publications_title | default: "Publications" }}</h3>
+    {% for publication in data_root.publications %}
       <div class="row clearfix publication">
         <div class="col-xs-12 col-sm-5 col-md-6 no-print">
           <span class="pub-img" style="background-image: url({{ publication.image | relative_url }})" />

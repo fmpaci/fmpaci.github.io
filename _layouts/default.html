@@ -3,6 +3,7 @@
 
 
 <body class="{% if site.darkmode == true and site.darkmode != 'never' %}dark{% endif %}">
+    {% if page.lang == 'es' %}{% assign data_root = site.data.esp %}{% else %}{% assign data_root = site.data %}{% endif %}
     <div id="home"></div>
     {%- include navbar.html -%}
 

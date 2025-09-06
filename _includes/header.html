@@ -113,9 +113,15 @@
             </a>
           </li>
         {%- endif -%}
-        {%- if site.cv_main_file != None -%}
+        {%- if page.lang == 'es' and site.cv_file_eng != None -%}
           <li>
-            <a target="_blank" href={{site.cv_main_file}} class="button button--sacnite button--round-l">
+            <a target="_blank" href={{site.cv_file_esp}} class="button button--sacnite button--round-l">
+              <i class="fa fa-file-pdf-o" title="Book a time with me"></i>
+            </a>
+          </li>
+        {%- else -%}
+          <li>
+            <a target="_blank" href={{site.cv_file_eng}} class="button button--sacnite button--round-l">
               <i class="fa fa-file-pdf-o" title="Book a time with me"></i>
             </a>
           </li>

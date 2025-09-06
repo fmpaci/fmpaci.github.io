@@ -1,24 +1,24 @@
-{%- if site.data.publications.size > 0 -%}
+{%- if data_root.publications and data_root.publications.size > 0 -%}
 {%- include v1/publications.html -%}
 {%- endif -%}  
 
-{%- if site.data.skills.size > 0 -%}
+{%- if data_root.skills and data_root.skills.size > 0 -%}
 {%- include v1/skills.html -%}
 {%- endif -%}  
 
-{%- if site.data.projects.size > 0 -%}
+{%- if data_root.projects and data_root.projects.size > 0 -%}
   {%- include v1/projects.html -%}
 {%- endif -%}
 
-{%- if site.data.experience.size > 0 -%}
+{%- if data_root.experience and data_root.experience.size > 0 -%}
   {%- include v1/experience.html -%}
 {%- endif -%}
 
-{%- if site.data.education.size > 0 -%}
+{%- if data_root.education and data_root.education.size > 0 -%}
   {%- include v1/education.html -%}
 {%- endif -%}
 
-{%- if site.data.certification.size > 0 -%}
+{%- if data_root.certification and data_root.certification.size > 0 -%}
   {%- include v1/certification.html -%}
 {%- endif -%}
 

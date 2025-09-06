@@ -1,6 +1,6 @@
 <div class="container projects-container">
-  <h3>{{ site.projects_title | default: "Projects" }}</h3>
-  {% for project in site.data.projects %}
+  <h3>{{ page.projects_title | default: site.projects_title | default: "Projects" }}</h3>
+  {% for project in data_root.projects %}
     <div class="row clearfix project">
       <div class="col-xs-12 col-sm-5 col-md-6 no-print">
         <span class="pub-img" style="background-image: url({{ project.image | relative_url }})"/>

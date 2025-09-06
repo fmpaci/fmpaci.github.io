@@ -1,39 +1,45 @@
  <div class="nav-div">
 
         <ul class="nav-list">
-            <a href="#home"><li class="nav-item">About Me</li></a>
-            {%- if site.data.publications.size > 0 -%}
-                <a href="#{{ site.publications_title | default: 'Publications' }}"><li class="nav-item">{{ site.publications_title | default: "Publications" }}</li></a>
+            <a href="#home"><li class="nav-item">{{ page.about_title | default: site.about_title | default: 'About Me' }}</li></a>
+            {%- if data_root.publications and data_root.publications.size > 0 -%}
+                <a href="#{{ page.publications_title | default: site.publications_title | default: 'Publications' }}"><li class="nav-item">{{ page.publications_title | default: site.publications_title | default: "Publications" }}</li></a>
             {%- endif -%}
 
-            {%- if site.data.skills.size > 0 -%}
-                <a href="#{{ site.skill_name | slugify | default: 'Skills' }}"><li class="nav-item">{{ site.skill_name | default: 'Skills' }}</li></a>
+            {%- if data_root.skills and data_root.skills.size > 0 -%}
+                <a href="#{{ page.skill_name | default: site.skill_name | slugify | default: 'Skills' }}"><li class="nav-item">{{ page.skill_name | default: site.skill_name | default: 'Skills' }}</li></a>
             {%- endif -%}
 
-            {%- if site.data.projects.size > 0 -%}
-                <a href="#{{ site.projects_title | default: 'Projects' }}"><li class="nav-item">{{ site.projects_title | default: "Projects" }}</li></a>
+            {%- if data_root.projects and data_root.projects.size > 0 -%}
+                <a href="#{{ page.projects_title | default: site.projects_title | default: 'Projects' }}"><li class="nav-item">{{ page.projects_title | default: "Projects" }}</li></a>
             {%- endif -%}
 
-            {%- if site.data.experience.size > 0 -%}
-                <a href="#{{ site.experience_title |  default: 'Experience' }}"><li class="nav-item">{{ site.experience_title | default: 'Experience' }}</li></a>
+            {%- if data_root.experience and data_root.experience.size > 0 -%}
+                <a href="#{{ page.experience_title | default: site.experience_title | slugify | default: 'Experience' }}"><li class="nav-item">{{ page.experience_title | default: site.experience_title | default: 'Experience' }}</li></a>
             {%- endif -%}
 
-            {%- if site.data.education.size > 0 -%}
-                <a href="#{{ site.education_title | slugify | default: 'Education' }}"><li class="nav-item">{{ site.education_title | default: 'Education' }}</li></a>
+            {%- if data_root.education and data_root.education.size > 0 -%}
+                <a href="#{{ page.education_title | default: site.education_title | slugify | default: 'Education' }}"><li class="nav-item">{{ page.education_title | default: site.education_title | default: 'Education' }}</li></a>
             {%- endif -%}
 
-            {%- if site.data.certification.size > 0 -%}
-                <a href="#{{ site.certification_title | slugify | default: 'certification' }}"><li class="nav-item">{{ site.certification_title | default: 'Certification' }}</li></a>
+            {%- if data_root.certification and data_root.certification.size > 0 -%}
+                <a href="#{{ page.certification_title | default: site.certification_title | slugify | default: 'certification' }}"><li class="nav-item">{{ page.certification_title | default: site.certification_title | default: 'Certification' }}</li></a>
             {%- endif -%}
 
             {%- if site.more_content -%}
-                <a href="#{{ site.more_title | slugify | default: 'a-little-bit-more-about-me' }}"><li class="nav-item">{{ site.more_title | default: "A Little More About Me" }}</li></a>
+                <a href="#{{ page.more_title | default: site.more_title | slugify | default: 'a-little-bit-more-about-me' }}"><li class="nav-item">{{ page.more_title | default: site.more_title | default: "A Little More About Me" }}</li></a>
             {%- endif -%}
 
             {%- if site.show_calendar == true -%}
-                <a href="#{{ site.calendar_title | slugify | default: 'calendar' }}"><li class="nav-item">{{ site.data.more_title | default: "Calendar" }}</li></a>
+                <a href="#{{ page.calendar_title | default: site.calendar_title | slugify | default: 'calendar' }}"><li class="nav-item">{{ page.calendar_title | default: site.calendar_title | default: "Calendar" }}</li></a>
             {%- endif -%}
-
+            <li class="nav-item">
+              {% if page.lang == 'es' %}
+                <a href="{{ '/' | relative_url }}">Lang: ENG</a>
+              {% else %}
+                <a href="{{ '/esp/' | relative_url }}">Lang: ESP</a>
+              {% endif %}
+            </li>
 
         </ul>
  </div>
