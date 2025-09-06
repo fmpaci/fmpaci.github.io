@@ -1,36 +1,85 @@
-- company: <br/><a target="_blank" href="https://www.speareducation.com/" alt="Spear Education"><img src="./images/logos/logo-spear.svg" height="80"></a><br/>
+- company: <br/><a target="_blank" href="https://fmpaci.com/" alt="Brinta"><img
+    src="./images/logos/logo-pp_01.jpeg" ></a><br/>
+  job_title: |
+    Personal Project for tech infrastructure
+  link: null
+  dates: May 2025 - Present
+
+  description: |
+    - Designed and deployed network infrastructure for a medical clinic (LAN, Wi‑Fi, VLANs, VPN, firewall) ensuring secure, reliable connectivity.
+    - Collaborated on the implementation of core systems (EHR/EMR, scheduling, billing), coordinating vendors, data migration, and user onboarding.
+    - Configured identity and access management, backups, monitoring, and incident response procedures with clear documentation.
+    - Trained staff and provided ongoing support, tracking issues and iterating on improvements.
+
+- company: <br/><a target="_blank" href="https://brinta.com/" alt="Brinta"><img
+    src="./images/logos/logo-brinta_02.svg" height="100"></a><br/>
+  job_title: |
+    Senior Data Engineer
+  link: brinta.com
+  dates: November 2024 - May 2025
+  stack: |
+     <p><iconify-icon icon="logos:python" width="12" height="12"></iconify-icon> Python</p>
+     <p><iconify-icon icon="logos:apache-spark" width="12" height="12"></iconify-icon> Spark</p>
+     <p><iconify-icon icon="logos:apache-airflow" width="12" height="12"></iconify-icon> Airflow</p>
+     <p><iconify-icon icon="logos:aws" width="12" height="12"></iconify-icon> AWS</p>
+     <p><iconify-icon icon="logos:aws-glue" width="12" height="12"></iconify-icon> Glue</p>
+     <p><iconify-icon icon="logos:amazon-s3" width="12" height="12"></iconify-icon> S3</p>
+  description: |
+    - Design and develop ETL/ELT pipelines with PySpark.
+    - Migrate legacy jobs to AWS-based stack, improving scalability, reliability, and maintainability.
+    - Orchestrate and schedule workflows with Airflow, enforcing SLAs, retries, and alerting.
+    - Model datasets and define clear data contracts and documentation.
+    - Implement monitoring, logging, and data quality checks; proactively investigate incidents and resolve root causes.
+    - Optimize Spark performance and storage costs by tuning partitions, caching, and job configurations.
+    - Collaborate with product, analytics, and business stakeholders to prioritize roadmaps and deliverables.
+    - Aply engineering best practices: code reviews, CI/CD, IaC, security, and governance.
+
+- company: <br/><a target="_blank" href="https://www.speareducation.com/"
+    alt="Spear Education"><img src="./images/logos/logo-spear.svg"
+    height="80"></a><br/>
   job_title: |
     Senior Data Engineer
   github: speareducation
   link: speareducation.com
-  dates: February 2024 - Present
-  #stack: |
-  #   <p> <iconify-icon icon="logos:python" width="16" height="16" ></iconify-icon> Python  </p>
-  #   <p> <iconify-icon icon="logos:aws-glue" width="20" height="20" ></iconify-icon> Glue </p>
+  dates: February 2024 - November 2024
+  stack: |
+     <p><iconify-icon icon="logos:python" width="12" height="12"></iconify-icon> Python</p>
+     <p><iconify-icon icon="logos:snowflake-icon" width="12" height="12"></iconify-icon> Snowflake</p>
+     <p><iconify-icon icon="logos:amazon-redshift" width="12" height="12"></iconify-icon> Redshift</p>
+     <p><iconify-icon icon="logos:aws-glue" width="12" height="12"></iconify-icon> Glue</p>
+     <p><iconify-icon icon="logos:apache-airflow" width="12" height="12"></iconify-icon> Airflow</p>
   description: |
-        - Project to build a new data architecture, considering the different options and strategies such as lakehouse, warehouse, evaluating different technologies to achieve the goal.
-        - ETL(Extract,Transform,Load) tasks development, maintaining data integrity and verifying pipeline stability. Stack: Snowflake, Redshift, Matillion, AWS Glue, Python, SQL, Dremio, Coalesce  
-        - Develop Python scripts to get data from different sources, such as S3, API, Parquet files, etc
-        - Monitor and control datawarehouse and datalake performance
+    - Project to build a new data architecture, considering the different options and strategies such as lakehouse, warehouse, evaluating different technologies to achieve the goal.
+    - Design ETL(Extract,Transform,Load) tasks data models and for analytics (dimensional models, SCDs), maintaining data integrity and verifying pipeline stability. Stack: Snowflake, Redshift, Matillion, AWS Glue, Python, SQL, Dremio, Coalesce
+    - Develop Python scripts to get data from different sources, such as S3, API, Parquet files, etc
+    - Monitor and control datawarehouse and datalake performance
+    - Keep track of customers' tickets and issues.
 
-
-
-- company: <br/><a target="_blank" href="https://www.frubana.com" alt="Frubana"><img src="./images/logos/logo-frubana.svg" height="80"></a><br/>
+- company: <br/><a target="_blank" href="https://www.frubana.com"
+    alt="Frubana"><img src="./images/logos/logo-frubana.svg"
+    height="80"></a><br/>
   job_title: |
     Senior Data Engineer
   github: frubana
   link: frubana.com
   dates: January 2022 - December 2023
+  stack: |
+     <p><iconify-icon icon="logos:apache-airflow" width="12" height="12"></iconify-icon> Airflow</p>
+     <p><iconify-icon icon="logos:aws-glue" width="12" height="12"></iconify-icon> Glue</p>
+     <p><iconify-icon icon="logos:python" width="12" height="12"></iconify-icon> Python</p>
+     <p><iconify-icon icon="logos:amazon-s3" width="12" height="12"></iconify-icon> S3</p>
   description: |
-        - Collaborated on ETL(Extract,Transform,Load) tasks development,maintaining data integrity and verifying pipeline stability. Techs: Airflow, AWS Glue, SQL, Python
-        - Develop Python dags and lambda functions to gather information from different sources, such as S3, API, goggle sheets
-        - Evaluated various tools,technologies,and best practices for potential adoption in company's data engineering processes.
-        - Generate insights and dashboards with Metabase, Superset, Redash and Looker
-        - Administer users connections and permissions on Metabase, Superset, Redash, and redshift
-        - Monitor and control datawarehouse and datalake performance, keep track of redshift queue, help clients with query tuning
-        - Keep track of customers' tickets and issues.
+    - Collaborated on ETL(Extract,Transform,Load) tasks development, maintaining data integrity and verifying pipeline stability. Techs: Airflow, AWS Glue, SQL, Python
+    - Develop Python DAGs and lambda functions to gather information from different sources, such as S3, API, Google Sheets
+    - Evaluated various tools, technologies, and best practices for potential adoption in company's data engineering processes.
+    - Generate insights and dashboards with Metabase, Superset, Redash and Looker
+    - Administer user connections and permissions on Metabase, Superset, Redash, and Redshift
+    - Monitor and control data warehouse and data lake performance, keep track of Redshift queue, help clients with query tuning
+    - Keep track of customers' tickets and issues.
 
-- company: <a target="_blank" href="https://www.coderhouse.com/" alt="CoderHouse"><img src="./images/logos/logo-coder.png" height="100"></a><br/>
+- company: <a target="_blank" href="https://www.coderhouse.com/"
+    alt="CoderHouse"><img src="./images/logos/logo-coder.png"
+    height="100"></a><br/>
   job_title: |
     SQL Professor
   link: coderhouse.com
@@ -38,13 +87,14 @@
   description: |
     <br/>
     - Strong interpersonal and communication skills, resulting in clear subject matter discussion with students.
-    - Meet with teams members to discuss different approaches, lessons and future learning objectives.
+    - Meet with team members to discuss different approaches, lessons and future learning objectives.
     - Encouraged class discussions by building discussions into lessons, actively soliciting input, asking open-ended questions and using techniques to track student participation.
-    - Used different technology to engage students in achieving learning outcomes.
+    - Used different technologies to engage students in achieving learning outcomes.
     - Researched and selected course texts and supplemental learning materials.
 
-
-- company: <br/><a target="_blank"  href="https://www.eldars.com.ar/" alt="Eldar"><img src="./images/logos/logo-eldar-nb2.svg" height="80"></a><br/><br/>
+- company: <br/><a target="_blank"  href="https://www.eldars.com.ar/"
+    alt="Eldar"><img src="./images/logos/logo-eldar-nb2.svg"
+    height="80"></a><br/><br/>
   job_title: |
     Senior Data Engineer
   link: https://eldars.com.ar
@@ -53,49 +103,51 @@
     <br/>
     - Database Migration project, from DB2 to MySQL.
     - Design MySQL DDL based on current DB2 database
-    - Generate ETL process for development stage, in order to test cases and change made by developers.
-    - Suggest changes on datawarehouse model, to reduce impact on extraction step.
+            - Generate ETL process for development stage, in order to test cases and changes made by developers.
+            - Suggest changes on data warehouse model, to reduce impact on extraction step.
 
-
-- company:  <br/><a target="_blank" href="https://www.bbva.com.ar/" alt="BBVA"><img src="./images/logos/logo_bbva_azul.svg" height="70"></a><br/><br/>
+- company: <br/><a target="_blank" href="https://www.bbva.com.ar/" alt="BBVA"><img
+    src="./images/logos/logo_bbva_azul.svg" height="70"></a><br/><br/>
   job_title: |
     Senior Data Engineer
   link: https://www.bbva.com.ar/
   dates: May 2018 - May 2021
   description: |
     - Develop ETL process, data modeling, and data pipelines in different tools such as SSIS SQL Server Integration Services, Teradata SQL, IPC PowerCenter.
-    - Develop end-to-end process or solutions, from gathering user requirements, creating documents and developing SQL codes and couch final users.
+    - Develop end-to-end process or solutions, from gathering user requirements, creating documents and developing SQL codes and coaching final users.
     - Query tuning and database performance analysis.
-    - Python development with Google Apis.
-    - Coach coworkers in data warehouse model, SQL queries, and help them to solve performance issues. 
+    - Python development with Google APIs.
+    - Coach coworkers in data warehouse model, SQL queries, and help them to solve performance issues.
     - Project and improvements proposed:
-      - Scoring of email integrating different sources, reducing wasted emails attempts in 38%
-      - Developed a process to fix problems on client's products activation, improving client satisfaction, reducing 99% the complaints with these problems.
-      - Developed a CRM-like application, with connection to different data sources to reduce time consuming tasks.
-      - Developed a process to pay different gifts to clients and avoid conflicts between commercial campaigns and budgets. 
+      - Scoring of emails integrating different sources, reducing wasted email attempts by 38%
+      - Developed a process to fix problems on client's products activation, improving client satisfaction, reducing complaints by 99% for these problems.
+      - Developed a CRM-like application, with connection to different data sources to reduce time-consuming tasks.
+      - Developed a process to pay different gifts to clients and avoid conflicts between commercial campaigns and budgets.
 
-
-- company: <br/><a target="_blank" href="https://centroconstrucciones.com/" alt="Centro Construcciones S.A."><img src="./images/logos/logo-cecosa.png" height="60"></a><br/><br/>
+- company: <br/><a target="_blank" href="https://centroconstrucciones.com/"
+    alt="Centro Construcciones S.A."><img src="./images/logos/logo-cecosa.png"
+    height="60"></a><br/><br/>
   job_title: Functional Analyst of Softland ERP
   link: https://centroconstrucciones.com/
   dates: May 2017 - May 2018
   description: |
     <br/>
     - T-SQL Development, stored procedure, views, functions, and maintenance plans.
-    - Administrations of user profiles and security parameters.
-    - Document new process, create user manuals, flow charts.
+    - Administration of user profiles and security parameters.
+    - Document new processes, create user manuals, flow charts.
 
-
-- company: <br/><a target="_blank" href="https://www.impsa.com/quienes-somos/icsa/" alt="ICSA"><img src="./images/logos/logo-icsa.svg" height="90"></a><br/><br/>
+- company: <br/><a target="_blank"
+    href="https://www.impsa.com/quienes-somos/icsa/" alt="ICSA"><img
+    src="./images/logos/logo-icsa.svg" height="90"></a><br/><br/>
   job_title: Functional Analyst <br/> Developer of Epicor ERP
   link: https://www.impsa.com/quienes-somos/icsa/
   dates: October 2012 - July 2017
   description: |
-      - Gather user requirements and write use case and other documentations.
-      - Development in Progress 4GL ABL, VB .Net.
-      - SQL Server administration, maintenance plans, backups and performance tuning.
-      - Data migration between different system using SSIS. 
-      - TSQL development, stored procedures, views, functions. 
-      - Create reports and dashboards on SSRS and Crystal Reports.
-      - Collaboration with other teams to assure process development can be certified in ISO 9001: 2008, ISO 14001: 2004 and OHSAS 18001: 2007.
-      - QA of developed solutions.
+    - Gather user requirements and write use cases and other documentation.
+    - Development in Progress 4GL ABL, VB .Net.
+    - SQL Server administration, maintenance plans, backups and performance tuning.
+    - Data migration between different systems using SSIS.
+    - T-SQL development, stored procedures, views, functions.
+    - Create reports and dashboards on SSRS and Crystal Reports.
+    - Collaboration with other teams to ensure process development can be certified in ISO 9001: 2008, ISO 14001: 2004 and OHSAS 18001: 2007.
+    - QA of developed solutions.

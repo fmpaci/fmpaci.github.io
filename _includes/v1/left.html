@@ -28,7 +28,7 @@
     {{ include.item.description | strip | markdownify }}
     {%- if include.item.stack -%}
        <p class="stack">Stack</p>
-       <div class="container skills-container">
+       <div class="container skills-container stack-inline">
         {{ include.item.stack | strip | markdownify }}
        </div>
     {%- endif -%}

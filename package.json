@@ -1,0 +1,13 @@
+{
+  "name": "fmpaci-cv",
+  "version": "1.0.0",
+  "description": "Federico Paci's CV Website",
+  "scripts": {
+    "start": "bundle exec jekyll serve",
+    "build": "bundle exec jekyll build",
+    "generate-pdf": "node scripts/generate-pdf.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+} 

@@ -259,17 +259,61 @@ p.quote {
     margin-top: 1rem;
   }
 }
+
 p.stack {
   font-size: 1.4rem;
   font-style: italic;
-  padding: 1rem 2.5rem;
-  text-align: center;
-  border-bottom: dashed 1px #CCCCCC;
-  @media print {
-    text-align: left;
+  padding: 5px 2.5rem;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+p.stack::before,
+p.stack::after {
+  content: "";
+  flex: 1 1 auto;
+  border-bottom: 1px dashed #CCCCCC;
+}
+
+@media print {
+  p.stack {
+    justify-content: flex-start;
     padding: 0rem 1rem;
     margin-top: 1rem;
   }
+}
+
+.stack-inline {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 10px;
+  padding: 2px 5px 10px 10px;
+  font-size: 12px;
+  line-height: 1;
+  white-space: nowrap;
+  overflow-x: auto;
+}
+
+.stack-inline p {
+  margin: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  white-space: nowrap;
+  margin-bottom: 10px;
+}
+
+.stack-inline iconify-icon {
+  width: 12px;
+  height: 12px;
+}
+
+.container.skills-container {
+  margin-top: 0;
 }
 
 .pub-img {

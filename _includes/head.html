@@ -17,4 +17,20 @@
   {%- if jekyll.environment == 'production' and site.gtag -%}
     {%- include gtag.html -%}
   {%- endif -%}
+
+  <style>
+    @media print {
+      .print-button {
+        display: none;
+      }
+      body {
+        margin: 0;
+        padding: 20px;
+      }
+      .container {
+        width: 100%;
+        max-width: none;
+      }
+    }
+  </style>
 </head>
