@@ -1,8 +1,8 @@
 - name: <br/><a href="https://www.uade.edu.ar/" alt="UADE"><img src="/images/logos/logo-uade.svg" height="60"></a><br/><br/>
-  dates: Marzo 2017 - Marzo 2021
+  dates: Marzo 2017 - Julio 2020
   qualification: Ingeniería de sistemas
   description: | # this will include new lines to allow paragraphs
-    Estudios de ingeniería de sistemas, hasta 4to año.
+    Estudios de ingeniería de sistemas, hasta 3er año.
     
     **Cursos relacionados**
 
@@ -10,13 +10,13 @@
     diseño de algoritmos, probabilidad y estadística, estructuras discretas.
 
 - name: <br/><a href="https://itu.uncuyo.edu.ar/" alt="ITU"><img src="/images/logos/logo-itu.png" height="70"></a><br/><br/>
-  dates: Septiembre 2012 - Septiembre 2017
+  dates: Septiembre 2012 - Diciembre 2015
   qualification: Técnico en Computación Industrial
   description: | # this will include new lines to allow paragraphs
 
 
 - name: <br/><a href="https://www.escuelaetiec.com//" alt="ETIEC"><img src="/images/logos/logo-etiec.jpg" height="90"></a><br/><br/>
-  dates: Marzo 2001 - Diciembre 2007
+  dates: Marzo 2001 - Diciembre 2006
   qualification: Técnico Electricista
   description: |
     Técnico Electricista

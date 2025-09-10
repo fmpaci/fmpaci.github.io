@@ -64,6 +64,26 @@
     - Monitor and control data warehouse and data lake performance
     - Keep track of customers' tickets and issues.
 
+- company: <a target="_blank" href="https://www.coderhouse.com/"
+    alt="CoderHouse"><img src="/images/logos/logo-coder.png"
+    height="100"></a><br/>
+  company_name: CoderHouse
+  job_title: |
+    SQL Professor
+  link: coderhouse.com
+  dates: August 2021 - August 2024
+  stack:
+    - MySQL
+    - Git
+  description: |
+    <br/>
+    - Part-time job as SQL Professor at CoderHouse, teaching practical and theoretical classes.
+    - Strong interpersonal and communication skills, resulting in clear subject matter discussion with students.
+    - Meet with team members to discuss different approaches, lessons and future learning objectives.
+    - Encouraged class discussions by building discussions into lessons, actively soliciting input, asking open-ended questions and using techniques to track student participation.
+    - Used different technologies to engage students in achieving learning outcomes.
+    - Researched and selected course texts and supplemental learning materials.
+
 - company: <br/><a target="_blank" href="https://www.frubana.com"
     alt="Frubana"><img src="/images/logos/logo-frubana.svg"
     height="80"></a><br/>
@@ -94,25 +114,6 @@
     - Administer user connections and permissions on Metabase, Superset, Redash, and Redshift
     - Monitor and control data warehouse and data lake performance, keep track of Redshift queue, help clients with query tuning
     - Keep track of customers' tickets and issues.
-
-- company: <a target="_blank" href="https://www.coderhouse.com/"
-    alt="CoderHouse"><img src="/images/logos/logo-coder.png"
-    height="100"></a><br/>
-  company_name: CoderHouse
-  job_title: |
-    SQL Professor
-  link: coderhouse.com
-  dates: August 2021 - August 2024
-  stack:
-    - MySQL
-    - Git
-  description: |
-    <br/>
-    - Strong interpersonal and communication skills, resulting in clear subject matter discussion with students.
-    - Meet with team members to discuss different approaches, lessons and future learning objectives.
-    - Encouraged class discussions by building discussions into lessons, actively soliciting input, asking open-ended questions and using techniques to track student participation.
-    - Used different technologies to engage students in achieving learning outcomes.
-    - Researched and selected course texts and supplemental learning materials.
 
 - company: <br/><a target="_blank"  href="https://www.eldars.com.ar/"
     alt="Eldar"><img src="/images/logos/logo-eldar-nb2.svg"

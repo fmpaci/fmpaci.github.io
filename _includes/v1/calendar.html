@@ -1,5 +1,5 @@
 <div class="container calendar-container">
-  <h3 id="{{ site.calendar_title | slugify | default: 'calendar' }}">{{ site.data.more_title | default: "Calendar" }}</h3>
+  <h3 id="{{ page.calendar_title | slugify | default: site.calendar_title | default: "calendar" }}">{{ page.calendar_title | default: site.calendar_title | default: "Calendar" }}</h3>
 
   <!-- Google Calendar Appointment Scheduling begin -->
   <iframe src="https://calendar.google.com/calendar/appointments/schedules/{{ site.calendar_embed }}?gv=true" style="border: 0" width="100%" height="1050" ></iframe>

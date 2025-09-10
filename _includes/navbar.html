@@ -33,7 +33,7 @@
             {%- if site.show_calendar == true -%}
                 <a href="#{{ page.calendar_title | default: site.calendar_title | slugify | default: 'calendar' }}">
                     <li class="nav-item">
-                      <iconify-icon icon="fa:calendar" width="16" height="16"></iconify-icon>
+                      <!-- <iconify-icon icon="fa:calendar" width="16" height="16"></iconify-icon> -->
                       {{ page.calendar_title | default: site.calendar_title | default: "Calendar" }}
                     </li>
                 </a>
@@ -43,14 +43,14 @@
                 <a href="{{ '/' | relative_url }}">
                     <li class="nav-item">
                         <iconify-icon icon="fa:language" width="16" height="16"></iconify-icon>
-                        Español
+                        <span style="opacity:0.6;">English</span> / <span style="font-weight:bold; text-decoration:underline;">Español</span> 
                     </li>
                 </a>
             {% else %}
                 <a href="{{ '/esp/' | relative_url }}">
                     <li class="nav-item">
                         <iconify-icon icon="fa:language" width="16" height="16"></iconify-icon>
-                        English
+                        <span style="font-weight:bold; text-decoration:underline;">English</span> / <span style="opacity:0.6;">Español</span>
                     </li>
                 </a>
             {% endif %}

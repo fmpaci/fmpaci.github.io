@@ -64,6 +64,27 @@
     - Monitorear y controlar el rendimiento del data warehouse y del data lake.
     - Gestionar tickets e incidencias de clientes.
 
+- company: <a target="_blank" href="https://www.coderhouse.com/"
+    alt="CoderHouse"><img src="/images/logos/logo-coder.png"
+    height="100"></a><br/>
+  company_name: CoderHouse
+  job_title: |
+    Profesor de SQL
+  link: coderhouse.com
+  dates: Agosto 2021 - Agosto 2024
+  stack:
+    - MySQL
+    - Git
+
+  description: |
+    <br/>
+    - Trabajo part-time como profesor de SQL en CoderHouse, impartiendo clases prácticas y teóricas.
+    - Habilidades interpersonales y de comunicación que permiten discusiones claras con los estudiantes.
+    - Planificar reuniones con el equipo para discutir distintos enfoques, clases y objetivos de aprendizaje futuros.
+    - Fomentar la participación en clase integrando debates en las lecciones, solicitando aportes, realizando preguntas abiertas y utilizando técnicas para seguir la participación.
+    - Utilizar distintas tecnologías para involucrar a los estudiantes en el logro de los resultados de aprendizaje.
+    - Investigar y seleccionar textos y materiales de apoyo para los cursos.
+
 - company: <br/><a target="_blank" href="https://www.frubana.com"
     alt="Frubana"><img src="/images/logos/logo-frubana.svg"
     height="80"></a><br/>
@@ -94,26 +115,6 @@
     - Administrar conexiones y permisos de usuarios en Metabase, Superset, Redash y Redshift.
     - Monitorear y controlar el rendimiento del data warehouse y del data lake; gestionar la cola de Redshift y ayudar a clientes con el tuning de consultas.
     - Gestionar tickets e incidencias de clientes.
-
-- company: <a target="_blank" href="https://www.coderhouse.com/"
-    alt="CoderHouse"><img src="/images/logos/logo-coder.png"
-    height="100"></a><br/>
-  company_name: CoderHouse
-  job_title: |
-    Profesor de SQL
-  link: coderhouse.com
-  dates: Agosto 2021 - Agosto 2024
-  stack:
-    - MySQL
-    - Git
-
-  description: |
-    <br/>
-    - Habilidades interpersonales y de comunicación que permiten discusiones claras con los estudiantes.
-    - Planificar reuniones con el equipo para discutir distintos enfoques, clases y objetivos de aprendizaje futuros.
-    - Fomentar la participación en clase integrando debates en las lecciones, solicitando aportes, realizando preguntas abiertas y utilizando técnicas para seguir la participación.
-    - Utilizar distintas tecnologías para involucrar a los estudiantes en el logro de los resultados de aprendizaje.
-    - Investigar y seleccionar textos y materiales de apoyo para los cursos.
 
 - company: <br/><a target="_blank"  href="https://www.eldars.com.ar/"
     alt="Eldar"><img src="/images/logos/logo-eldar-nb2.svg"
