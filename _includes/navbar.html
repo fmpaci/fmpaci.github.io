@@ -31,15 +31,29 @@
             {%- endif -%}
 
             {%- if site.show_calendar == true -%}
-                <a href="#{{ page.calendar_title | default: site.calendar_title | slugify | default: 'calendar' }}"><li class="nav-item">{{ page.calendar_title | default: site.calendar_title | default: "Calendar" }}</li></a>
+                <a href="#{{ page.calendar_title | default: site.calendar_title | slugify | default: 'calendar' }}">
+                    <li class="nav-item">
+                      <iconify-icon icon="fa:calendar" width="16" height="16"></iconify-icon>
+                      {{ page.calendar_title | default: site.calendar_title | default: "Calendar" }}
+                    </li>
+                </a>
             {%- endif -%}
-            <li class="nav-item">
-              {% if page.lang == 'es' %}
-                <a href="{{ '/' | relative_url }}">Lang: ENG</a>
-              {% else %}
-                <a href="{{ '/esp/' | relative_url }}">Lang: ESP</a>
-              {% endif %}
-            </li>
+
+            {% if page.lang == 'es' %}
+                <a href="{{ '/' | relative_url }}">
+                    <li class="nav-item">
+                        <iconify-icon icon="fa:language" width="16" height="16"></iconify-icon>
+                        Español
+                    </li>
+                </a>
+            {% else %}
+                <a href="{{ '/esp/' | relative_url }}">
+                    <li class="nav-item">
+                        <iconify-icon icon="fa:language" width="16" height="16"></iconify-icon>
+                        English
+                    </li>
+                </a>
+            {% endif %}
 
         </ul>
  </div>

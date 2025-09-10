@@ -287,16 +287,25 @@ p.stack::after {
 }
 
 .stack-inline {
-  display: flex;
+  // display: flex; // Common for horizontal layouts
+  // display: block; // Default, elements stack vertically
+  // display: inline; // Elements flow inline, no block features
+  // display: inline-block; // Inline flow, but block features (width/height)
+  // display: grid; // CSS Grid layout
+  // display: inline-flex; // Like flex, but inline
+  // display: table; // Table layout
+  // display: contents; // Makes container disappear, children render as if parent doesn't exist
+  // display: none; // Hides the element
+  display: contents; 
   flex-wrap: nowrap;
   align-items: center;
   gap: 10px;
-  padding: 2px 5px 10px 10px;
+  padding: 2px 5px 10px 10px; // up right down left
   font-size: 12px;
   line-height: 1;
   white-space: nowrap;
   // Other options for overflow-x include: visible, hidden, scroll, clip, and inherit.
-  overflow-x: scroll;
+  overflow-x: auto;
 }
 
 .stack-inline p {
@@ -305,7 +314,8 @@ p.stack::after {
   align-items: center;
   gap: 10px;
   white-space: nowrap;
-  margin-bottom: 10px;
+  margin-bottom: 10px; 
+  margin-left: 25px; 
 }
 
 .stack-inline iconify-icon {

@@ -1,0 +1,9 @@
+{% if include.stack and include.stack.size > 0 %}
+<p class="stack">Stack</p>
+<div class="container skills-container stack-inline">
+  {% for tech in include.stack %}
+    {% assign icon_name = site.icon_mappings[tech] | default: tech | downcase | replace: ' ', '-' | replace: '.', '' | replace: '+', 'plus' %}
+    <p><iconify-icon icon="{{ icon_name }}" width="16" height="16"></iconify-icon> {{ tech }}</p>
+  {% endfor %}
+</div>
+{% endif %}

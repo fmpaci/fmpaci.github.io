@@ -1,137 +1,178 @@
 - company: <br/><a target="_blank" href="https://fmpaci.com/" alt="Brinta"><img
     src="/images/logos/logo-pp_01.jpeg" ></a><br/>
+  company_name: Clink
   job_title: |
     Proyecto personal de infraestructura de tecnología para la salud
   link: null
   dates: Mayo 2025 - Presente
 
   description: |
-    - Diseñar y desplegar infraestructura de red para una clínica médica (LAN, Wi‑Fi, VLANs, VPN, firewall), garantizando conectividad segura y confiable.
+    - Diseñar y desplegar infraestructura de red para una clínica médica (LAN, Wi‑Fi, VLANs, VPN, firewall), garantizando conectividad segura, confiable y estable.
     - Colaborar en la implementación de sistemas clave (EHR/EMR, turnos, facturación), coordinando proveedores, migración de datos y onboarding de usuarios.
     - Configurar la gestión de identidad y accesos, backups, monitoreo y procedimientos de respuesta a incidentes con documentación clara.
-    - Capacitra al personal y brindar soporte, registrando incidencias y realizando mejoras iterativas.
+    - Capacitar al personal y brindar soporte, registrando incidencias y realizando mejoras iterativas.
 
 - company: <br/><a target="_blank" href="https://brinta.com/" alt="Brinta"><img
     src="/images/logos/logo-brinta_02.svg" height="100"></a><br/>
+  company_name: Brinta
   job_title: |
-    Ingeniero de Datos Senior
+    Ingeniero de Datos
   link: brinta.com
   dates: Noviembre 2024 - Mayo 2025
-  stack: |
-     <p><iconify-icon icon="logos:python" width="12" height="12"></iconify-icon> Python</p>
-     <p><iconify-icon icon="logos:apache-spark" width="12" height="12"></iconify-icon> Spark</p>
-     <p><iconify-icon icon="logos:airflow-icon" width="12" height="12"></iconify-icon> Airflow</p>
-     <p><iconify-icon icon="logos:aws" width="12" height="12"></iconify-icon> AWS</p>
-     <p><iconify-icon icon="logos:aws-glue" width="12" height="12"></iconify-icon> Glue</p>
-     <p><iconify-icon icon="logos:aws-s3" width="12" height="12"></iconify-icon> S3</p>
-     <p><iconify-icon icon="logos:postgresql" width="12" height="12"></iconify-icon> PostgreSQL</p>
-  
+  stack:
+    - Python
+    - Spark
+    - Airflow
+    - AWS
+    - S3
+    - PostgreSQL
+
   description: |
-    - Diseñé y desarrollé pipelines ETL/ELT con PySpark.
-    - Migré trabajos heredados a una pila basada en AWS, mejorando escalabilidad, confiabilidad y mantenibilidad.
-    - Orquesté y programé flujos de trabajo con Airflow, aplicando SLAs, reintentos y alertas.
-    - Modelé conjuntos de datos y definí contratos de datos y documentación claros.
-    - Implementé monitoreo, logging y controles de calidad de datos; investigué proactivamente incidentes y resolví causas raíz.
-    - Optimicé el rendimiento de Spark y los costos de almacenamiento ajustando particiones, caché y configuraciones de jobs.
-    - Colaboré con producto, analítica y stakeholders de negocio para priorizar roadmaps y entregables.
-    - Apliqué buenas prácticas de ingeniería: code reviews, CI/CD, IaC, seguridad y gobernanza.
+    - Diseñar y desarrollar pipelines ETL/ELT con PySpark.
+    - Migrar código js a stack de AWS con Pyspark, mejorando escalabilidad y mantenimiento.
+    - Orquestar flujos de trabajo con Airflow, aplicando SLAs, reintentos y alertas.
+    - Modelar conjuntos de datos y definir estructuras de datos y documentación claros.
+    - Implementar monitoreo, logging y controles de calidad de datos; investigar proactivamente incidentes y resolver fallas comunes.
+    - Optimizar el rendimiento de Spark y los costos de almacenamiento ajustando particiones, caché y configuraciones de jobs.
+    - Colaborar con producto y stakeholders de negocio para priorizar roadmaps y entregables.
+    - Aplicar buenas prácticas de ingeniería: code reviews, CI/CD, IaC, seguridad y gobernanza.
 
 - company: <br/><a target="_blank" href="https://www.speareducation.com/"
     alt="Spear Education"><img src="/images/logos/logo-spear.svg"
     height="80"></a><br/>
+  company_name: Spear Education
   job_title: |
     Ingeniero de Datos Senior
   github: speareducation
   link: speareducation.com
   dates: Febrero 2024 - Noviembre 2024
-  stack: |
-     <p><iconify-icon icon="logos:python" width="12" height="12"></iconify-icon> Python</p>
-     <p><iconify-icon icon="logos:snowflake-icon" width="12" height="12"></iconify-icon> Snowflake</p>
-     <p><iconify-icon icon="logos:amazon-redshift" width="12" height="12"></iconify-icon> Redshift</p>
-     <p><iconify-icon icon="logos:aws-glue" width="12" height="12"></iconify-icon> Glue</p>
-     <p><iconify-icon icon="logos:apache-airflow" width="12" height="12"></iconify-icon> Airflow</p>
+  stack:
+    - Python
+    - Snowflake
+    - Redshift
+    - Glue
+    - Airflow
+    - Matillion
+    - Dremio
+    - Coalesce
+    - Git
+
   description: |
     - Proyecto para construir una nueva arquitectura de datos, evaluando opciones y estrategias (lakehouse, warehouse) y distintas tecnologías para lograr el objetivo.
-    - Diseñé tareas ETL (Extract, Transform, Load), modelos de datos y para analítica (modelos dimensionales, SCDs), manteniendo la integridad de datos y verificando la estabilidad de los pipelines. Tecnologías: Snowflake, Redshift, Matillion, AWS Glue, Python, SQL, Dremio, Coalesce
-    - Desarrollé scripts en Python para obtener datos de diversas fuentes, como S3, APIs, archivos Parquet, etc.
-    - Monitoreé y controlé el rendimiento del data warehouse y del data lake.
-    - Gestioné tickets e incidencias de clientes.
+    - Diseñar tareas ETL (Extract, Transform, Load), modelos de datos y para analítica (modelos dimensionales, SCDs), manteniendo la integridad de datos y verificando la estabilidad de los pipelines. Tecnologías: Snowflake, Redshift, Matillion, AWS Glue, Python, SQL, Dremio, Coalesce
+    - Desarrollar scripts en Python para obtener datos de diversas fuentes, como S3, APIs, archivos Parquet, etc.
+    - Monitorear y controlar el rendimiento del data warehouse y del data lake.
+    - Gestionar tickets e incidencias de clientes.
 
 - company: <br/><a target="_blank" href="https://www.frubana.com"
     alt="Frubana"><img src="/images/logos/logo-frubana.svg"
     height="80"></a><br/>
+  company_name: Frubana
   job_title: |
     Ingeniero de Datos Senior
   github: frubana
   link: frubana.com
   dates: Enero 2022 - Enero 2024
-  stack: |
-     <p><iconify-icon icon="logos:apache-airflow" width="12" height="12"></iconify-icon> Airflow</p>
-     <p><iconify-icon icon="logos:aws-glue" width="12" height="12"></iconify-icon> Glue</p>
-     <p><iconify-icon icon="logos:python" width="12" height="12"></iconify-icon> Python</p>
-     <p><iconify-icon icon="logos:amazon-s3" width="12" height="12"></iconify-icon> S3</p>
+  stack:
+    - Airflow
+    - Glue
+    - Python
+    - S3
+    - Spark
+    - Redash
+    - Looker
+    - Metabase
+    - Superset
+    - AWS Lambda
+    - Git
+
   description: |
-    - Colaboré en el desarrollo de tareas ETL, manteniendo la integridad de datos y verificando la estabilidad de los pipelines. Tecnologías: Airflow, AWS Glue, SQL, Python
-    - Desarrollé DAGs en Python y funciones Lambda para obtener información de distintas fuentes, como S3, APIs y Google Sheets.
-    - Evalué diversas herramientas, tecnologías y buenas prácticas para su adopción potencial en los procesos de ingeniería de datos de la compañía.
-    - Generé insights y tableros con Metabase, Superset, Redash y Looker.
-    - Administré conexiones y permisos de usuarios en Metabase, Superset, Redash y Redshift.
-    - Monitoreé y controlé el rendimiento del data warehouse y del data lake; gestioné la cola de Redshift y ayudé a clientes con el tuning de consultas.
-    - Gestioné tickets e incidencias de clientes.
+    - Colaborar en el desarrollo de tareas ETL, manteniendo la integridad de datos y verificando la estabilidad de los pipelines. Tecnologías: Airflow, AWS Glue, SQL, Python
+    - Desarrollar DAGs en Python y funciones Lambda para obtener información de distintas fuentes, como S3, APIs y Google Sheets.
+    - Evaluar diversas herramientas, tecnologías y buenas prácticas para su adopción potencial en los procesos de ingeniería de datos de la compañía.
+    - Generar insights y tableros con Metabase, Superset, Redash y Looker.
+    - Administrar conexiones y permisos de usuarios en Metabase, Superset, Redash y Redshift.
+    - Monitorear y controlar el rendimiento del data warehouse y del data lake; gestionar la cola de Redshift y ayudar a clientes con el tuning de consultas.
+    - Gestionar tickets e incidencias de clientes.
 
 - company: <a target="_blank" href="https://www.coderhouse.com/"
     alt="CoderHouse"><img src="/images/logos/logo-coder.png"
     height="100"></a><br/>
+  company_name: CoderHouse
   job_title: |
     Profesor de SQL
   link: coderhouse.com
-  dates: Agosto 2021 - Actualidad
+  dates: Agosto 2021 - Agosto 2024
+  stack:
+    - MySQL
+    - Git
+
   description: |
     <br/>
     - Habilidades interpersonales y de comunicación que permiten discusiones claras con los estudiantes.
-    - Me reúno con el equipo para discutir distintos enfoques, clases y objetivos de aprendizaje futuros.
-    - Fomento la participación en clase integrando debates en las lecciones, solicitando aportes, realizando preguntas abiertas y utilizando técnicas para seguir la participación.
-    - Utilizo distintas tecnologías para involucrar a los estudiantes en el logro de los resultados de aprendizaje.
-    - Investigo y selecciono textos y materiales de apoyo para los cursos.
+    - Planificar reuniones con el equipo para discutir distintos enfoques, clases y objetivos de aprendizaje futuros.
+    - Fomentar la participación en clase integrando debates en las lecciones, solicitando aportes, realizando preguntas abiertas y utilizando técnicas para seguir la participación.
+    - Utilizar distintas tecnologías para involucrar a los estudiantes en el logro de los resultados de aprendizaje.
+    - Investigar y seleccionar textos y materiales de apoyo para los cursos.
 
 - company: <br/><a target="_blank"  href="https://www.eldars.com.ar/"
     alt="Eldar"><img src="/images/logos/logo-eldar-nb2.svg"
     height="80"></a><br/><br/>
+  company_name: Eldar
   job_title: |
     Ingeniero de Datos Senior
   link: https://eldars.com.ar
-  dates: Mayo 2022 - Nov 2022
+  dates: Mayo 2021 - Nov 2021
+  stack:
+    - MySQL
+    - DB2
+    - Git
+    - 
   description: |
     <br/>
     - Proyecto de migración de base de datos, de DB2 a MySQL.
-    - Diseñé DDL de MySQL en base a la base de datos actual de DB2
-            - Generé procesos ETL para la etapa de desarrollo, con el fin de probar casos y cambios realizados por los desarrolladores.
-            - Sugerí cambios en el modelo de data warehouse para reducir el impacto en la etapa de extracción.
+    - Diseñar DDLs de MySQL en base a la base de datos actual de DB2
+      - Generar procesos ETL para la etapa de desarrollo, con el fin de probar casos y cambios realizados por los desarrolladores.
+      - Sugerir cambios en el modelo de data warehouse para reducir el impacto en la etapa de extracción.
 
 - company: <br/><a target="_blank" href="https://www.bbva.com.ar/" alt="BBVA"><img
     src="/images/logos/logo_bbva_azul.svg" height="70"></a><br/><br/>
+  company_name: BBVA
   job_title: |
     Ingeniero de Datos Senior
   link: https://www.bbva.com.ar/
   dates: Mayo 2018 - Mayo 2021
+  stack:
+    - SSIS
+    - Teradata
+    - Informatica PowerCenter
+    - Python
+    - Google APIs
   description: |
-    - Desarrollé procesos ETL, modelado de datos y pipelines en herramientas como SSIS (SQL Server Integration Services), Teradata SQL e Informatica PowerCenter.
-    - Desarrollé procesos y soluciones end-to-end, desde el relevamiento de requisitos, la creación de documentos y el desarrollo de SQL hasta el acompañamiento de usuarios finales.
-    - Tuning de consultas y análisis de performance de bases de datos.
+    - Desarrollar procesos ETL, modelado de datos y pipelines en herramientas como SSIS (SQL Server Integration Services), Teradata SQL e Informatica PowerCenter.
+    - Desarrollar procesos y soluciones end-to-end, desde el relevamiento de requisitos, la creación de documentos y el desarrollo de SQL hasta el acompañamiento de usuarios finales.
+    - Optimización de consultas y análisis de rendimiento de bases de datos.
     - Desarrollo en Python con APIs de Google.
-    - Capacité a compañeros en el modelo de data warehouse y en consultas SQL; ayudé a resolver problemas de rendimiento.
+    - Capacitar a compañeros en el modelo de data warehouse y en consultas SQL; ayudar a resolver problemas de rendimiento.
     - Proyectos y mejoras propuestas:
-      - Scoring de emails integrando distintas fuentes, reduciendo los intentos fallidos en un 38%.
-      - Desarrollé un proceso para corregir problemas en la activación de productos de clientes, mejorando la satisfacción y reduciendo los reclamos por estos problemas en un 99%.
-      - Desarrollé una aplicación tipo CRM conectada a distintas fuentes de datos para reducir tareas manuales.
-      - Desarrollé un proceso para pagar distintos obsequios a clientes y evitar conflictos entre campañas comerciales y presupuestos.
+      - Scoring emails integrando distintas fuentes, reduciendo los intentos fallidos en un 38%.
+      - Desarrollar un proceso para corregir problemas en la activación de productos de clientes, mejorando la satisfacción y reduciendo los reclamos por estos problemas en un 99%.
+      - Desarrollar una aplicación tipo CRM conectada a distintas fuentes de datos para reducir tareas manuales.
+      - Desarrollar un proceso para pagar distintos obsequios a clientes y evitar conflictos entre campañas comerciales y presupuestos.
 
 - company: <br/><a target="_blank" href="https://centroconstrucciones.com/"
     alt="Centro Construcciones S.A."><img src="/images/logos/logo-cecosa.png"
     height="60"></a><br/><br/>
+  company_name: Centro Construcciones S.A.
   job_title: Analista Funcional de Softland ERP
   link: https://centroconstrucciones.com/
   dates: Mayo 2017 - Mayo 2018
+  stack:
+    - T‑SQL
+    - Stored procedures
+    - Views
+    - Functions
+    - Maintenance plans
   description: |
     <br/>
     - Desarrollo en T‑SQL, stored procedures, vistas, funciones y planes de mantenimiento.
@@ -141,14 +182,26 @@
 - company: <br/><a target="_blank"
     href="https://www.impsa.com/quienes-somos/icsa/" alt="ICSA"><img
     src="/images/logos/logo-icsa.svg" height="90"></a><br/><br/>
+  company_name: ICSA
   job_title: Analista Funcional <br/> Desarrollador de ERP Epicor
   link: https://www.impsa.com/quienes-somos/icsa/
   dates: Octubre 2012 - Julio 2017
+  stack:
+    - Progress 4GL ABL
+    - VB .NET
+    - SQL Server
+    - SSIS
+    - T‑SQL
+    - Stored procedures
+    - Views
+    - Functions
+    - Maintenance plans
+    - Excel Macros
   description: |
     - Relevamiento de requisitos y redacción de casos de uso y otra documentación.
     - Desarrollo en Progress 4GL ABL y VB .NET.
-    - Administración de SQL Server, planes de mantenimiento, backups y performance tuning.
-    - Migración de datos entre distintos sistemas usando SSIS.
+    - Administración de SQL Server, planes de mantenimiento, backups y optimización de rendimiento.
+    - Migración de datos entre distintos sistemas usando SSIS y macros de Excel.
     - Desarrollo en T‑SQL, stored procedures, vistas y funciones.
     - Creación de reportes y tableros en SSRS y Crystal Reports.
     - Colaboración con otros equipos para asegurar que los procesos puedan certificarse en ISO 9001:2008, ISO 14001:2004 y OHSAS 18001:2007.

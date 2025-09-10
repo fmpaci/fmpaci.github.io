@@ -1,32 +1,82 @@
-- name: Cloud Infrastructure
-  description: |
-    <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/Amazon_Web_Services-orange.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://aws.amazon.com/cloudformation/"><img src="https://img.shields.io/badge/cloudformation-878280.svg?&style=for-the-badge&logo=amazon-aws-cloudformation&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+## Stack Technologies + Experience on them
 
-- name: Data Base  Data Warehouse  Data Lake
+- name:  <p><b>Infraestructura</b></p>
   description: |
     <p align='left'>
-        <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://aws.amazon.com/redshift/"><img src="https://img.shields.io/badge/Redshift+2-878280.svg?&style=for-the-badge&logo=amazonredshift&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <img alt="Teradata" src="https://img.shields.io/badge/teradata-%2B4-blue?style=for-the-badge&logo=teradata&logoColor=%23F37440">
+         <a target="_blank" href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/(AWS)_Amazon_Web_Services-%2B3-blue?style=flat-square&logo=amazonaws&logoColor=%23232F3E&labelColor=%23E6E6E6" /></a>
+         <a target="_blank" href="https://aws.amazon.com/s3/"><img src="https://img.shields.io/badge/S3-%2B4-blue?style=flat-square&logo=amazonaws&logoColor=%23232F3E&labelColor=%23E6E6E6" /></a>
+         <a target="_blank" href="https://aws.amazon.com/lambda/"><img src="https://img.shields.io/badge/Lambda-%2B2-blue?style=flat-square&logo=amazonaws&logoColor=%23232F3E&labelColor=%23E6E6E6" /></a>
+         <a target="_blank" href="https://www.proxmox.com/"><img src="https://img.shields.io/badge/Proxmox-%2B1-blue?style=flat-square&logo=proxmox&labelColor=%23E6E6E6" /></a>
     </p>
 
-- name: Scripting
+
+- name: <p><b>Scripting</b></p>
   description: |
     <p align='left'>
-        <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href=""><img src="https://img.shields.io/badge/sql-878280?style=for-the-badge&logo=sql&logoColor=ffffff" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+         <a target="_blank" href="https://es.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-%2B12-blue?style=flat-square&logo=adminer&logoColor=%234053D6&labelColor=%23E6E6E6"/></a>
+         <a target="_blank" href="https://docs.microsoft.com/en-us/sql/t-sql/"><img src="https://img.shields.io/badge/T--SQL-%2B3-blue?style=flat-square&logo=microsoftsqlserver&logoColor=%23CC2927&labelColor=%23E6E6E6"/></a>
+         <a target="_blank" href="https://www.python.org/"><img src="https://img.shields.io/badge/python-%2B3-blue?style=flat-square&logo=python&labelColor=%23E6E6E6" /></a>
     </p>
 
-- name: Orchestration
+- name: <p><b>Bases de datos</b></p>
   description: |
     <p align='left'>
-      <a href="https://airflow.apache.org/"><img src="https://img.shields.io/badge/Apache_Airflow-2f8780.svg?&style=for-the-badge&logo=apache-airflow" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+       <a target="_blank" href="https://www.microsoft.com/sql-server"><img src="https://img.shields.io/badge/SQL%20Server-%2B7-blue?style=flat-square&logo=microsoftsqlserver&logoColor=%23CC2927&labelColor=E6E6E6"/></a>
+       <a target="_blank" href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-%2B3-blue?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=E6E6E6" /></a>
+       <a target="_blank" href="https://teradata.com"><img src="https://img.shields.io/badge/teradata-%2B4-blue?style=flat-square&logo=teradata&logoColor=%23F37440&labelColor=E6E6E6" /></a>
+       <a target="_blank" href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-%2B3-blue?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=E6E6E6" /></a>
+       <a target="_blank" href="https://aws.amazon.com/redshift/"><img src="https://img.shields.io/badge/Redshift-%2B3-blue?style=flat-square&logo=amazonredshift&logoColor=8C4FFF&labelColor=E6E6E6" /></a>
+       <a target="_blank" href="https://www.snowflake.com/"><img src="https://img.shields.io/badge/snowflake-1-blue?style=flat-square&logo=snowflake&logoColor=29B5E8&labelColor=E6E6E6" /></a>
     </p>
 
-- name: Data Transformation - Data Validation
+- name: <p><b>Orquestación</b></p>
   description: |
     <p align='left'>
-      <a href="https://www.getdbt.com/"><img src="https://img.shields.io/badge/dbt-de5d40.svg?&style=for-the-badge&logo=dbt&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://greatexpectations.io/"><img src="https://img.shields.io/badge/great_expectations-de5d40.svg?&style=for-the-badge&logo=great-expectations&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+       <a target="_blank" href="https://www.microsoft.com/sql-server"><img src="https://img.shields.io/badge/(SSIS)_SQL_Server_Integration_Services-%2B4-blue?style=flat-square&logo=microsoftsqlserver&logoColor=%23CC2927&labelColor=E6E6E6"/></a>
+       <a target="_blank" href="https://airflow.apache.org/"><img src="https://img.shields.io/badge/Apache_Airflow-%2B2-blue?style=flat-square&logo=apacheairflow&logoColor=%23017CEE&labelColor=%23E6E6E6" /></a>
+       <a target="_blank" href="https://www.matillion.com/"><img src="https://img.shields.io/badge/Matillion-1-blue?style=flat-square&logo=matillion&logoColor=19E57F&labelColor=%23E6E6E6" /></a>
+       <a target="_blank" href="https://www.informatica.com/platform/powercenter-cloud-modernization.html"><img src="https://img.shields.io/badge/(IPC)Informatica_Power_Center-%2B1-blue?style=flat-square&logo=informatica&logoColor=%23FF4D00&labelColor=%23E6E6E6"/></a>
     </p>
+
+
+- name: <p><b>Procesamiento de datos</b></p>
+  description: |
+    <p align='left'>
+         <a target="_blank" href="https://aws.amazon.com/glue/"><img src="https://img.shields.io/badge/Glue-%2B2-blue?style=flat-square&logo=amazonaws&logoColor=%23232F3E&labelColor=%23E6E6E6" /></a>
+         <a target="_blank" href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-%2B2-blue?style=flat-square&logo=pandas&logoColor=%23150458&labelColor=%23E6E6E6" /></a>
+         <a target="_blank" href="https://spark.apache.org/docs/latest/api/python/"><img src="https://img.shields.io/badge/Pyspark-%2B2-blue?style=flat-square&logo=apachespark&logoColor=%23E25A1C&labelColor=%23E6E6E6" /></a>
+         <a target="_blank" href="https://www.dremio.com/"><img src="https://img.shields.io/badge/Dremio-1-blue?style=flat-square&logo=dremio&logoColor=52C5F7&labelColor=%23E6E6E6" /></a>
+         <a target="_blank" href="https://coalesce.io/"><img src="https://img.shields.io/badge/Coalesce-1-blue?style=flat-square&logo=coalesce&logoColor=00D4AA&labelColor=%23E6E6E6" /></a>
+    </p>
+
+
+- name:  <p><b>Inteligencia de Negocios y Visualización</b></p>
+  description: |
+    <p align='left'>
+       <a target="_blank" href="https://redash.io/"><img src="https://img.shields.io/badge/Redash-%2B2-blue?style=flat-square&logo=redash&logoColor=BE2E26&labelColor=%23E6E6E6" /></a>
+       <a target="_blank" href="https://looker.com/"><img src="https://img.shields.io/badge/Looker-%2B2-blue?style=flat-square&logo=looker&logoColor=4285F4&labelColor=%23E6E6E6" /></a>
+       <a target="_blank" href="https://www.metabase.com/"><img src="https://img.shields.io/badge/Metabase-%2B2-blue?style=flat-square&logo=metabase&logoColor=509EE3&labelColor=%23E6E6E6" /></a>
+       <a target="_blank" href="https://superset.apache.org/"><img src="https://img.shields.io/badge/Superset-%2B2-blue?style=flat-square&logo=apachesuperset&logoColor=FF6B6B&labelColor=%23E6E6E6" /></a>
+    </p>
+
+- name:  <p><b>Documentación</b></p>
+  description: |
+
+       <a target="_blank" href="https://www.atlassian.com/software/confluence"><img src="https://img.shields.io/badge/Confluence-%2B3-blue?style=flat-square&logo=confluence&logoColor=%23172B4D&labelColor=%23E6E6E6" /></a>
+
+
+- name:  <p><b>Sistema de control de versiones</b></p>
+  description: |
+
+       <a target="_blank" href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-%2B5-blue?style=flat-square&logo=git&logoColor=%23F05032&labelColor=%23E6E6E6"/></a>
+
+
+- name:  <p><b>APIs e Integración</b></p>
+  description: |
+
+       <a target="_blank" href="https://developers.google.com/apis-explorer"><img src="https://img.shields.io/badge/Google_APIs-%2B2-blue?style=flat-square&logo=google&logoColor=4285F4&labelColor=%23E6E6E6" /></a>
+
+- name:  <p><b>Contenedores</b></p>
+  description: |
+       <a target="_blank" href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%2B1-blue?style=flat-square&logo=docker&logoColor=%232496ED&labelColor=%23E6E6E6" /></a>
+

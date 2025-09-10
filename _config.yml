@@ -1,5 +1,5 @@
 repository: fmpaci/fmpaci.github.io
-favicon: images/favicon.ico
+favicon: /images/favicon.ico
 version: 1
 name: Federico Paci
 title: Data Engineer
@@ -36,8 +36,8 @@ about_content_es: |
   - Mis intereses son alrededor del mundo de los datos como **Data Engineering**, **Data Modeling**, **Data Orchestration**
 
   - Mis CVs: <br>
-  -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_eng.pdf" target="_blank"> <i class="fa fa-file-pdf-o" title="CV PDF"></i> <b>CV English  </b></a><br>
-  -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_spa.pdf" target="_blank"> <i class="fa fa-file-pdf-o" title="CV PDF"></i> <b>CV Spanish</b></a><br>
+  -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_eng.pdf" target="_blank"> <i class="fa fa-file-pdf-o" title="CV PDF"></i> <b>CV en Inglés  </b></a><br>
+  -- <a href="https://fmpaci.github.io/files/CV_Federico_Paci_spa.pdf" target="_blank"> <i class="fa fa-file-pdf-o" title="CV PDF"></i> <b>CV en Español</b></a><br>
 
   - Ingeniero de Datos Senior con más de 5 años de experiencia en data warehousing, desarrollo de ETL y gestión de datos. 
   Capacidad para colaborar con equipos multifuncionales para identificar oportunidades de optimización de sistemas y procesos de datos.
@@ -47,6 +47,58 @@ about_content_es: |
 # - Currently I'm studying best practices of DAMA organization to get better performance, governance and metadata management.
 
 footer_show_references: false
+
+# Icon mappings for stack technologies
+icon_mappings:
+  Glue: logos:aws-glue
+  S3: logos:aws-s3
+  PostgreSQL: logos:postgresql
+  Airflow: devicon:apacheairflow
+  Spark: devicon:apachespark
+  Snowflake: logos:snowflake-icon
+  Redshift: logos:aws-redshift
+  Python: logos:python
+  AWS: logos:aws
+  Proxmox: devicon:proxmox-wordmark
+  Redash: simple-icons:redash
+  Metabase: logos:metabase
+  Superset: logos:apache-superset-icon
+  Iceberg: openmoji:iceberg
+  Git: logos:git-icon
+  MySQL: logos:mysql
+  Matillion: simple-icons:matillion
+  DBT: logos:dbt-icon
+  Looker: logos:looker-icon
+  AWS Lambda: logos:aws-lambda
+  Hubspot: logos:hubspot
+  DB2: carbon:ibm-db2-alt
+  SSIS: devicon:microsoftsqlserver
+  Teradata: simple-icons:teradata
+  IPC: simple-icons:informatica
+  Informatica PowerCenter: simple-icons:informatica
+  GCP: material-icon-theme:gcp
+  Google Sheets: material-icon-theme:gcp
+  Google APIs: material-icon-theme:gcp
+  Progress 4GL ABL: logos:progress
+  VB .NET: skill-icons:dotnet
+  SQL Server: devicon:microsoftsqlserver
+  Excel Macros: vscode-icons:file-type-vba
+  T‑SQL: devicon:microsoftsqlserver
+  Stored procedures: devicon:microsoftsqlserver
+  Views: devicon:microsoftsqlserver
+
+
+
+#  List of tools don't have existing icon, so I'm using one equivalent
+  Coalesce: simple-icons:dbt
+  Dremio: game-icons:dolphin
+
+
+# Other that is not used right now
+  SQL: ph:file-sql
+  Confluence: devicon:confluence
+  
+
 sass:
   sass_dir: _sass
   style: compressed
